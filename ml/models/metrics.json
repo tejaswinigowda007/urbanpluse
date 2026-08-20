@@ -1,0 +1,136 @@
+{
+  "model_name": "Random Forest Classifier",
+  "dataset_name": "Synthetic Prototype Dataset \u2014 For Development and Demonstration",
+  "total_samples": 1500,
+  "training_samples": 1200,
+  "testing_samples": 300,
+  "accuracy": 0.6233,
+  "precision": 0.6163,
+  "recall": 0.6233,
+  "f1_score": 0.6164,
+  "precision_macro": 0.6077,
+  "recall_macro": 0.6338,
+  "f1_macro": 0.6163,
+  "confusion_matrix": [
+    [
+      69,
+      15,
+      0,
+      0
+    ],
+    [
+      24,
+      57,
+      19,
+      2
+    ],
+    [
+      0,
+      21,
+      30,
+      21
+    ],
+    [
+      0,
+      1,
+      10,
+      31
+    ]
+  ],
+  "class_labels": [
+    "LOW",
+    "MEDIUM",
+    "HIGH",
+    "CRITICAL"
+  ],
+  "per_class_metrics": {
+    "LOW": {
+      "precision": 0.7419,
+      "recall": 0.8214,
+      "f1_score": 0.7797,
+      "support": 84
+    },
+    "MEDIUM": {
+      "precision": 0.6064,
+      "recall": 0.5588,
+      "f1_score": 0.5816,
+      "support": 102
+    },
+    "HIGH": {
+      "precision": 0.5085,
+      "recall": 0.4167,
+      "f1_score": 0.458,
+      "support": 72
+    },
+    "CRITICAL": {
+      "precision": 0.5741,
+      "recall": 0.7381,
+      "f1_score": 0.6458,
+      "support": 42
+    }
+  },
+  "feature_importances": [
+    {
+      "feature": "days_unresolved",
+      "importance": 0.1569,
+      "percentage": 15.69
+    },
+    {
+      "feature": "current_severity",
+      "importance": 0.1423,
+      "percentage": 14.23
+    },
+    {
+      "feature": "frequency_change_percentage",
+      "importance": 0.1261,
+      "percentage": 12.61
+    },
+    {
+      "feature": "nearby_reports",
+      "importance": 0.1096,
+      "percentage": 10.96
+    },
+    {
+      "feature": "frequency_last_7_days",
+      "importance": 0.0944,
+      "percentage": 9.44
+    },
+    {
+      "feature": "historical_escalations",
+      "importance": 0.0889,
+      "percentage": 8.89
+    },
+    {
+      "feature": "location_risk_score",
+      "importance": 0.0822,
+      "percentage": 8.22
+    },
+    {
+      "feature": "weather_factor",
+      "importance": 0.0549,
+      "percentage": 5.49
+    },
+    {
+      "feature": "issue_type",
+      "importance": 0.0533,
+      "percentage": 5.33
+    },
+    {
+      "feature": "traffic_level",
+      "importance": 0.0511,
+      "percentage": 5.11
+    },
+    {
+      "feature": "population_density",
+      "importance": 0.0404,
+      "percentage": 4.04
+    }
+  ],
+  "hyperparameters": {
+    "n_estimators": 120,
+    "max_depth": 12,
+    "min_samples_split": 4,
+    "min_samples_leaf": 2,
+    "random_state": 42
+  }
+}

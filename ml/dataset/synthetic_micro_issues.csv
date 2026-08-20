@@ -1,0 +1,1501 @@
+record_id,issue_type,current_severity,days_unresolved,nearby_reports,frequency_last_7_days,frequency_change_percentage,traffic_level,population_density,location_risk_score,historical_escalations,weather_factor,priority_level
+REC-00001,Road Damage,1,1,8,4,-4.3,Low,Low,10,6,Clear,LOW
+REC-00002,Drainage,5,1,17,4,74.6,Very High,Medium,8,4,Clear,MEDIUM
+REC-00003,Other,2,23,13,6,4.5,Medium,High,2,1,Storm,MEDIUM
+REC-00004,Drainage,3,26,1,12,33.5,Low,Very High,2,8,Heavy Rain,HIGH
+REC-00005,Other,5,28,11,10,-9.2,Low,Low,4,4,Clear,HIGH
+REC-00006,Streetlight Failure,3,15,20,14,18.4,High,High,4,4,Clear,MEDIUM
+REC-00007,Drainage,2,18,7,3,34.0,High,Medium,6,0,Moderate Rain,LOW
+REC-00008,Streetlight Failure,3,3,6,15,110.9,High,Medium,8,6,Storm,MEDIUM
+REC-00009,Water Leakage,3,5,7,12,49.8,High,Very High,10,6,Heavy Rain,HIGH
+REC-00010,Drainage,4,3,1,14,-22.5,Medium,Very High,10,1,Storm,HIGH
+REC-00011,Streetlight Failure,5,15,16,5,115.4,Low,Low,9,4,Heavy Rain,CRITICAL
+REC-00012,Streetlight Failure,1,24,8,9,81.9,Low,High,9,3,Moderate Rain,MEDIUM
+REC-00013,Garbage Accumulation,2,18,16,15,-39.9,High,Very High,1,1,Heavy Rain,MEDIUM
+REC-00014,Garbage Accumulation,2,2,7,15,50.8,Low,Low,8,1,Moderate Rain,LOW
+REC-00015,Water Leakage,4,18,5,5,44.4,Very High,Medium,9,3,Heavy Rain,HIGH
+REC-00016,Garbage Accumulation,4,17,14,2,-0.3,Low,High,1,8,Moderate Rain,MEDIUM
+REC-00017,Drainage,2,1,2,12,61.0,Medium,Low,1,5,Clear,LOW
+REC-00018,Streetlight Failure,2,18,4,12,109.7,Very High,Medium,8,6,Moderate Rain,HIGH
+REC-00019,Pothole,1,22,13,6,27.8,Very High,Low,2,0,Storm,MEDIUM
+REC-00020,Pothole,2,7,6,9,31.8,Very High,Medium,5,7,Moderate Rain,MEDIUM
+REC-00021,Other,1,15,17,2,-31.9,Low,Low,4,2,Storm,LOW
+REC-00022,Streetlight Failure,1,6,12,1,117.6,High,Very High,5,6,Storm,LOW
+REC-00023,Water Leakage,2,10,6,1,52.7,Low,High,1,0,Storm,LOW
+REC-00024,Water Leakage,1,17,2,14,-10.3,Low,Medium,7,1,Moderate Rain,LOW
+REC-00025,Drainage,5,2,19,2,27.1,High,High,4,5,Moderate Rain,MEDIUM
+REC-00026,Road Damage,3,15,10,15,80.3,Low,Low,8,1,Clear,MEDIUM
+REC-00027,Drainage,2,17,8,3,109.3,Low,Medium,6,4,Moderate Rain,LOW
+REC-00028,Garbage Accumulation,5,26,20,9,-38.7,High,Low,3,4,Clear,HIGH
+REC-00029,Pothole,5,5,8,5,56.8,High,Medium,5,8,Storm,HIGH
+REC-00030,Pothole,1,21,13,14,4.3,Low,High,3,4,Moderate Rain,MEDIUM
+REC-00031,Road Damage,4,18,13,9,-38.5,Low,Medium,9,0,Heavy Rain,MEDIUM
+REC-00032,Water Leakage,1,10,11,15,109.3,Low,High,4,3,Clear,LOW
+REC-00033,Garbage Accumulation,5,28,13,10,79.9,Medium,Medium,3,6,Clear,CRITICAL
+REC-00034,Other,4,26,7,5,-14.5,Low,Very High,1,7,Moderate Rain,MEDIUM
+REC-00035,Water Leakage,4,12,9,14,87.3,Medium,Medium,1,3,Storm,HIGH
+REC-00036,Other,3,12,20,9,23.9,High,Low,2,4,Moderate Rain,MEDIUM
+REC-00037,Drainage,3,2,3,10,29.5,High,Very High,10,8,Clear,MEDIUM
+REC-00038,Garbage Accumulation,1,23,13,1,43.2,Medium,High,7,1,Heavy Rain,LOW
+REC-00039,Drainage,3,22,3,12,104.0,High,Very High,6,6,Heavy Rain,CRITICAL
+REC-00040,Road Damage,4,22,5,10,51.1,Very High,Low,5,4,Moderate Rain,HIGH
+REC-00041,Streetlight Failure,5,20,20,6,34.4,Very High,Medium,9,7,Moderate Rain,CRITICAL
+REC-00042,Road Damage,5,11,2,14,112.3,Medium,High,4,3,Moderate Rain,MEDIUM
+REC-00043,Pothole,1,8,15,10,96.0,Low,Very High,7,3,Storm,MEDIUM
+REC-00044,Road Damage,1,25,3,13,28.0,Medium,Very High,1,8,Moderate Rain,MEDIUM
+REC-00045,Other,1,15,4,13,34.3,High,Very High,10,8,Storm,HIGH
+REC-00046,Water Leakage,4,15,8,13,-0.4,High,Very High,4,4,Storm,CRITICAL
+REC-00047,Pothole,3,8,8,6,11.2,Low,Medium,3,3,Storm,LOW
+REC-00048,Pothole,4,14,10,9,34.5,Low,Medium,7,6,Clear,MEDIUM
+REC-00049,Other,5,13,15,1,110.8,High,Very High,7,8,Moderate Rain,CRITICAL
+REC-00050,Streetlight Failure,1,13,10,11,68.7,Very High,Medium,8,2,Clear,LOW
+REC-00051,Streetlight Failure,5,19,0,2,62.8,Medium,Very High,3,0,Heavy Rain,MEDIUM
+REC-00052,Garbage Accumulation,3,25,12,5,80.3,Very High,High,2,7,Clear,HIGH
+REC-00053,Road Damage,5,2,11,4,64.0,Low,Low,4,3,Clear,LOW
+REC-00054,Streetlight Failure,1,19,6,8,71.9,High,Medium,10,1,Moderate Rain,LOW
+REC-00055,Garbage Accumulation,1,19,0,15,9.9,Very High,Very High,4,1,Moderate Rain,LOW
+REC-00056,Other,5,26,3,13,117.4,Low,High,9,6,Heavy Rain,CRITICAL
+REC-00057,Pothole,5,21,10,1,95.9,Very High,Low,7,5,Storm,CRITICAL
+REC-00058,Road Damage,5,21,8,10,89.3,Very High,Very High,7,4,Heavy Rain,CRITICAL
+REC-00059,Other,2,27,2,5,101.1,Medium,Very High,10,6,Heavy Rain,HIGH
+REC-00060,Water Leakage,4,7,11,13,1.3,High,High,9,0,Moderate Rain,MEDIUM
+REC-00061,Pothole,2,24,13,8,48.8,Medium,Very High,8,7,Clear,HIGH
+REC-00062,Road Damage,2,10,18,6,35.7,High,Very High,9,5,Heavy Rain,HIGH
+REC-00063,Road Damage,4,9,9,5,-3.1,Medium,High,2,8,Moderate Rain,MEDIUM
+REC-00064,Garbage Accumulation,5,25,16,10,5.3,Low,Medium,5,3,Heavy Rain,HIGH
+REC-00065,Water Leakage,3,1,17,3,3.9,Low,High,3,7,Clear,LOW
+REC-00066,Streetlight Failure,4,15,10,3,114.5,High,Very High,2,1,Storm,MEDIUM
+REC-00067,Streetlight Failure,1,19,20,11,-31.4,Medium,High,2,3,Clear,LOW
+REC-00068,Drainage,5,8,16,7,32.1,Very High,High,10,6,Heavy Rain,CRITICAL
+REC-00069,Drainage,5,2,19,12,-24.1,Medium,Medium,5,1,Moderate Rain,MEDIUM
+REC-00070,Water Leakage,1,14,14,12,55.0,High,Low,4,4,Heavy Rain,HIGH
+REC-00071,Road Damage,4,3,7,15,2.3,Medium,Very High,2,8,Moderate Rain,MEDIUM
+REC-00072,Other,2,3,1,3,86.8,High,Very High,2,7,Heavy Rain,LOW
+REC-00073,Road Damage,4,9,16,9,39.0,Low,Low,7,5,Heavy Rain,MEDIUM
+REC-00074,Road Damage,5,19,0,13,67.6,High,Low,3,7,Storm,CRITICAL
+REC-00075,Garbage Accumulation,2,19,13,11,90.3,Low,Very High,6,6,Heavy Rain,HIGH
+REC-00076,Water Leakage,3,14,15,5,66.0,Very High,Low,8,1,Heavy Rain,HIGH
+REC-00077,Garbage Accumulation,3,4,12,14,42.3,Low,Very High,7,0,Moderate Rain,LOW
+REC-00078,Streetlight Failure,4,25,1,4,2.7,Medium,High,8,7,Clear,MEDIUM
+REC-00079,Pothole,5,26,7,12,-14.7,Low,Very High,2,3,Clear,MEDIUM
+REC-00080,Other,2,16,9,9,72.9,Very High,Very High,8,3,Storm,HIGH
+REC-00081,Drainage,2,13,6,15,55.9,Medium,Low,5,6,Heavy Rain,HIGH
+REC-00082,Other,1,10,9,14,53.9,Very High,Medium,8,8,Storm,MEDIUM
+REC-00083,Garbage Accumulation,3,18,17,7,32.9,High,Medium,4,6,Moderate Rain,HIGH
+REC-00084,Garbage Accumulation,4,23,12,7,118.1,Medium,Very High,1,2,Heavy Rain,HIGH
+REC-00085,Other,1,28,14,2,44.2,Very High,Low,3,6,Moderate Rain,MEDIUM
+REC-00086,Garbage Accumulation,3,20,12,11,-27.1,High,Very High,6,7,Clear,HIGH
+REC-00087,Drainage,1,8,20,11,107.3,Medium,Low,7,1,Clear,LOW
+REC-00088,Pothole,1,11,1,5,17.4,Very High,Medium,4,8,Storm,MEDIUM
+REC-00089,Drainage,2,6,5,2,57.5,Very High,Medium,8,2,Moderate Rain,LOW
+REC-00090,Garbage Accumulation,1,26,14,15,6.0,Medium,Low,8,5,Heavy Rain,MEDIUM
+REC-00091,Road Damage,4,23,8,8,95.2,Medium,Very High,8,1,Moderate Rain,HIGH
+REC-00092,Garbage Accumulation,3,1,12,5,-38.7,Low,Very High,5,3,Heavy Rain,LOW
+REC-00093,Water Leakage,2,20,8,11,80.9,Medium,Low,1,4,Storm,HIGH
+REC-00094,Water Leakage,1,10,10,12,26.5,Medium,Medium,9,5,Heavy Rain,MEDIUM
+REC-00095,Other,2,9,15,13,7.2,High,Low,8,1,Moderate Rain,LOW
+REC-00096,Road Damage,4,28,17,6,-25.6,Very High,Low,5,8,Clear,CRITICAL
+REC-00097,Streetlight Failure,3,22,8,10,21.0,High,Low,4,7,Clear,MEDIUM
+REC-00098,Garbage Accumulation,5,8,20,2,61.7,Very High,High,7,1,Moderate Rain,MEDIUM
+REC-00099,Pothole,1,10,15,2,-24.4,Medium,Very High,8,5,Storm,LOW
+REC-00100,Streetlight Failure,1,27,15,10,25.3,High,Low,6,3,Storm,MEDIUM
+REC-00101,Streetlight Failure,2,28,11,2,116.9,High,High,1,6,Heavy Rain,MEDIUM
+REC-00102,Other,4,3,6,11,62.3,Low,Low,6,3,Moderate Rain,LOW
+REC-00103,Other,5,7,2,14,82.4,Medium,Medium,4,5,Moderate Rain,MEDIUM
+REC-00104,Garbage Accumulation,2,5,17,5,87.8,Low,Low,3,0,Heavy Rain,LOW
+REC-00105,Other,2,19,10,1,-12.1,Low,Medium,7,8,Clear,LOW
+REC-00106,Other,3,17,18,2,32.3,Medium,Low,9,4,Storm,MEDIUM
+REC-00107,Road Damage,1,2,15,14,24.3,Low,Very High,8,1,Clear,LOW
+REC-00108,Water Leakage,3,20,20,10,47.7,High,Very High,10,8,Heavy Rain,CRITICAL
+REC-00109,Streetlight Failure,5,20,13,2,86.9,Low,Medium,7,7,Moderate Rain,HIGH
+REC-00110,Streetlight Failure,4,24,3,6,28.3,High,High,3,7,Clear,MEDIUM
+REC-00111,Pothole,1,3,13,2,79.1,High,Medium,9,0,Heavy Rain,LOW
+REC-00112,Other,4,28,1,5,56.1,High,Low,10,8,Moderate Rain,HIGH
+REC-00113,Water Leakage,4,8,3,6,95.3,High,Low,5,3,Storm,HIGH
+REC-00114,Other,5,20,20,9,-35.8,High,Low,3,4,Heavy Rain,HIGH
+REC-00115,Garbage Accumulation,3,1,5,14,-17.1,Very High,Low,3,0,Clear,LOW
+REC-00116,Streetlight Failure,4,11,5,6,9.9,High,Low,1,2,Moderate Rain,LOW
+REC-00117,Other,5,2,2,5,30.9,Very High,Very High,10,7,Storm,HIGH
+REC-00118,Pothole,3,14,3,5,68.5,Very High,High,1,3,Storm,MEDIUM
+REC-00119,Drainage,1,1,6,5,111.3,Medium,High,5,5,Clear,LOW
+REC-00120,Water Leakage,2,13,17,12,-3.2,High,Low,7,0,Storm,HIGH
+REC-00121,Pothole,4,3,10,10,28.7,Very High,Very High,5,1,Storm,HIGH
+REC-00122,Other,5,15,11,2,29.9,Low,Medium,7,6,Clear,MEDIUM
+REC-00123,Streetlight Failure,3,24,10,4,13.3,Medium,Low,9,1,Moderate Rain,MEDIUM
+REC-00124,Road Damage,2,8,3,3,1.0,Medium,Medium,2,2,Storm,LOW
+REC-00125,Streetlight Failure,5,25,18,8,69.0,High,High,3,7,Clear,CRITICAL
+REC-00126,Other,3,19,1,6,41.2,High,Very High,8,0,Clear,MEDIUM
+REC-00127,Garbage Accumulation,3,3,20,14,116.4,Low,Very High,8,8,Clear,HIGH
+REC-00128,Road Damage,2,11,19,8,40.2,Low,Very High,2,5,Clear,LOW
+REC-00129,Drainage,2,2,7,12,30.0,Very High,Medium,6,5,Heavy Rain,MEDIUM
+REC-00130,Road Damage,5,2,20,11,13.5,High,Low,9,6,Heavy Rain,CRITICAL
+REC-00131,Garbage Accumulation,5,28,4,6,-27.0,Medium,High,5,6,Moderate Rain,MEDIUM
+REC-00132,Garbage Accumulation,5,13,20,13,12.6,Medium,Low,7,8,Heavy Rain,CRITICAL
+REC-00133,Pothole,3,10,5,4,14.7,Very High,Medium,4,2,Moderate Rain,MEDIUM
+REC-00134,Pothole,5,25,17,14,78.2,Low,High,10,2,Storm,CRITICAL
+REC-00135,Water Leakage,2,6,19,13,104.4,Very High,Low,7,5,Moderate Rain,HIGH
+REC-00136,Other,4,8,17,4,9.5,Very High,Medium,6,7,Storm,HIGH
+REC-00137,Other,3,25,12,9,44.4,Medium,Medium,10,2,Heavy Rain,HIGH
+REC-00138,Garbage Accumulation,5,4,16,14,-20.1,Low,Medium,5,7,Moderate Rain,HIGH
+REC-00139,Other,4,3,7,14,32.2,High,Low,7,0,Storm,MEDIUM
+REC-00140,Pothole,3,8,0,6,108.9,High,Medium,3,0,Heavy Rain,LOW
+REC-00141,Other,4,23,4,13,72.9,Very High,Low,2,0,Heavy Rain,MEDIUM
+REC-00142,Road Damage,5,17,13,2,84.2,Medium,High,2,0,Moderate Rain,MEDIUM
+REC-00143,Streetlight Failure,5,15,2,2,93.9,Very High,Low,9,3,Moderate Rain,MEDIUM
+REC-00144,Garbage Accumulation,2,19,13,3,66.3,Low,High,2,8,Clear,MEDIUM
+REC-00145,Streetlight Failure,4,2,20,7,117.0,High,Low,6,1,Heavy Rain,MEDIUM
+REC-00146,Pothole,5,24,10,3,-32.9,High,Medium,8,7,Moderate Rain,CRITICAL
+REC-00147,Other,2,3,14,1,7.0,Low,Medium,1,5,Heavy Rain,LOW
+REC-00148,Drainage,4,9,1,13,63.5,High,High,1,5,Heavy Rain,HIGH
+REC-00149,Pothole,3,14,12,12,30.4,Very High,High,3,7,Storm,CRITICAL
+REC-00150,Garbage Accumulation,1,24,13,2,28.9,Medium,High,6,1,Clear,LOW
+REC-00151,Garbage Accumulation,3,10,14,10,74.8,Medium,Very High,6,7,Clear,MEDIUM
+REC-00152,Drainage,4,9,20,13,111.7,Low,Very High,6,8,Moderate Rain,CRITICAL
+REC-00153,Pothole,2,28,19,11,85.0,Low,Medium,2,3,Heavy Rain,MEDIUM
+REC-00154,Pothole,5,5,14,6,19.5,Low,Medium,9,5,Storm,HIGH
+REC-00155,Garbage Accumulation,3,8,3,1,77.7,Very High,Very High,9,1,Heavy Rain,LOW
+REC-00156,Water Leakage,5,10,15,4,-20.4,Low,Very High,3,7,Clear,MEDIUM
+REC-00157,Other,3,22,11,12,-29.6,High,High,3,2,Heavy Rain,MEDIUM
+REC-00158,Water Leakage,2,8,15,1,17.7,High,Very High,9,2,Clear,LOW
+REC-00159,Pothole,3,13,15,9,25.7,Very High,Low,3,5,Clear,MEDIUM
+REC-00160,Garbage Accumulation,2,27,17,11,54.0,Medium,Very High,9,0,Clear,MEDIUM
+REC-00161,Drainage,2,10,5,3,11.6,Medium,High,9,4,Clear,LOW
+REC-00162,Drainage,3,5,20,5,58.3,Low,Medium,10,2,Moderate Rain,MEDIUM
+REC-00163,Road Damage,5,24,19,6,94.8,Low,Low,2,0,Heavy Rain,HIGH
+REC-00164,Streetlight Failure,5,21,0,8,102.2,High,High,8,3,Storm,HIGH
+REC-00165,Garbage Accumulation,4,3,1,3,30.3,Very High,Very High,4,5,Moderate Rain,LOW
+REC-00166,Road Damage,3,13,4,13,19.3,Low,High,4,7,Clear,MEDIUM
+REC-00167,Garbage Accumulation,4,8,4,2,-31.9,Very High,Very High,4,2,Heavy Rain,LOW
+REC-00168,Water Leakage,2,16,16,8,39.8,High,Very High,1,1,Storm,MEDIUM
+REC-00169,Drainage,4,8,6,10,16.5,Low,High,8,7,Heavy Rain,HIGH
+REC-00170,Streetlight Failure,2,9,11,13,24.5,Low,Very High,1,8,Moderate Rain,LOW
+REC-00171,Garbage Accumulation,5,10,2,7,40.7,High,Low,3,1,Storm,LOW
+REC-00172,Drainage,3,25,4,4,56.4,Very High,Low,1,0,Moderate Rain,LOW
+REC-00173,Road Damage,3,26,15,9,33.1,Medium,High,10,5,Moderate Rain,HIGH
+REC-00174,Other,3,19,10,9,92.5,Very High,High,8,0,Heavy Rain,HIGH
+REC-00175,Garbage Accumulation,1,14,18,5,87.5,Low,Very High,5,3,Clear,LOW
+REC-00176,Road Damage,5,25,12,3,91.5,Medium,Low,10,1,Moderate Rain,HIGH
+REC-00177,Pothole,4,11,13,3,26.1,Medium,Very High,9,7,Clear,MEDIUM
+REC-00178,Drainage,3,22,15,9,20.3,Medium,Very High,9,5,Heavy Rain,CRITICAL
+REC-00179,Road Damage,3,20,15,4,113.2,High,High,4,4,Heavy Rain,CRITICAL
+REC-00180,Streetlight Failure,3,16,11,9,109.4,High,High,2,8,Storm,HIGH
+REC-00181,Streetlight Failure,3,25,4,5,-33.3,Low,High,8,4,Storm,MEDIUM
+REC-00182,Garbage Accumulation,5,23,8,3,-22.5,Medium,Medium,1,8,Moderate Rain,HIGH
+REC-00183,Road Damage,2,2,3,7,12.8,Very High,Low,3,0,Moderate Rain,LOW
+REC-00184,Streetlight Failure,4,21,6,13,114.2,High,High,1,1,Moderate Rain,HIGH
+REC-00185,Drainage,1,6,13,15,94.0,Low,Very High,8,2,Heavy Rain,MEDIUM
+REC-00186,Drainage,5,4,10,5,32.7,Very High,Medium,9,7,Heavy Rain,CRITICAL
+REC-00187,Water Leakage,1,11,5,12,33.4,High,Medium,1,5,Heavy Rain,LOW
+REC-00188,Water Leakage,5,28,20,15,24.9,Very High,High,2,6,Clear,CRITICAL
+REC-00189,Water Leakage,2,16,10,15,-0.3,High,Very High,4,7,Heavy Rain,CRITICAL
+REC-00190,Road Damage,5,1,8,11,17.5,Medium,Low,2,7,Heavy Rain,MEDIUM
+REC-00191,Water Leakage,4,22,16,15,103.2,High,Low,5,5,Moderate Rain,CRITICAL
+REC-00192,Water Leakage,4,24,19,6,26.5,Very High,Medium,4,1,Storm,CRITICAL
+REC-00193,Drainage,3,3,18,2,-30.1,Medium,Medium,3,5,Storm,MEDIUM
+REC-00194,Drainage,4,3,16,8,89.4,Very High,Medium,9,6,Storm,CRITICAL
+REC-00195,Drainage,1,18,14,11,89.1,Low,Very High,5,0,Moderate Rain,MEDIUM
+REC-00196,Garbage Accumulation,1,18,1,15,103.1,Very High,Low,5,6,Moderate Rain,MEDIUM
+REC-00197,Other,2,25,20,12,63.3,Very High,High,7,7,Storm,CRITICAL
+REC-00198,Road Damage,5,5,20,14,15.6,Medium,Very High,9,2,Moderate Rain,HIGH
+REC-00199,Other,1,25,0,5,34.1,Very High,Very High,4,3,Storm,LOW
+REC-00200,Road Damage,1,2,13,10,82.6,Low,Medium,4,1,Clear,LOW
+REC-00201,Drainage,1,15,19,11,72.5,Low,Medium,1,6,Storm,HIGH
+REC-00202,Other,1,5,16,5,-2.5,High,High,4,4,Moderate Rain,LOW
+REC-00203,Road Damage,5,8,13,5,4.0,Medium,Very High,9,7,Clear,HIGH
+REC-00204,Road Damage,4,26,16,6,71.4,Very High,Medium,5,6,Moderate Rain,CRITICAL
+REC-00205,Other,5,16,7,14,-3.9,Medium,Very High,1,8,Storm,CRITICAL
+REC-00206,Water Leakage,4,8,8,4,12.8,Low,Very High,6,1,Moderate Rain,LOW
+REC-00207,Pothole,3,13,19,10,-33.7,Low,Medium,10,8,Moderate Rain,HIGH
+REC-00208,Garbage Accumulation,3,1,6,15,-9.6,Low,Very High,4,3,Storm,LOW
+REC-00209,Water Leakage,5,11,9,7,34.6,High,High,5,5,Storm,HIGH
+REC-00210,Road Damage,4,25,10,15,-7.5,High,Very High,1,3,Moderate Rain,HIGH
+REC-00211,Pothole,3,18,18,10,75.2,High,Medium,4,5,Moderate Rain,HIGH
+REC-00212,Streetlight Failure,5,21,10,5,82.1,Very High,Very High,8,2,Heavy Rain,CRITICAL
+REC-00213,Water Leakage,2,24,17,8,-10.6,Low,Low,2,0,Clear,LOW
+REC-00214,Water Leakage,1,23,4,1,-5.0,Very High,High,1,7,Storm,MEDIUM
+REC-00215,Pothole,1,18,17,7,-38.1,High,High,1,8,Storm,HIGH
+REC-00216,Pothole,1,17,4,4,-9.3,High,High,5,6,Clear,LOW
+REC-00217,Garbage Accumulation,4,15,18,4,118.4,Medium,High,2,0,Clear,MEDIUM
+REC-00218,Streetlight Failure,1,21,0,12,-12.6,Very High,Very High,6,1,Clear,LOW
+REC-00219,Water Leakage,2,28,18,8,3.4,Low,High,9,0,Moderate Rain,MEDIUM
+REC-00220,Water Leakage,5,5,12,15,-27.7,Medium,Medium,10,6,Heavy Rain,CRITICAL
+REC-00221,Streetlight Failure,2,26,2,9,79.3,High,Low,2,6,Moderate Rain,MEDIUM
+REC-00222,Other,5,20,12,13,12.2,High,Very High,8,3,Heavy Rain,CRITICAL
+REC-00223,Drainage,4,14,5,11,53.7,Very High,Low,10,4,Moderate Rain,HIGH
+REC-00224,Water Leakage,4,23,20,3,78.3,High,High,2,1,Clear,MEDIUM
+REC-00225,Garbage Accumulation,4,12,8,2,-18.8,Medium,Very High,8,8,Storm,HIGH
+REC-00226,Drainage,1,20,19,13,11.9,Very High,Low,5,6,Storm,CRITICAL
+REC-00227,Other,1,24,17,15,118.8,Medium,Medium,7,2,Moderate Rain,HIGH
+REC-00228,Water Leakage,1,6,13,5,27.4,Very High,Low,6,4,Moderate Rain,LOW
+REC-00229,Road Damage,4,20,19,4,33.3,Medium,High,1,6,Heavy Rain,HIGH
+REC-00230,Other,3,15,10,7,90.5,Medium,High,6,3,Storm,MEDIUM
+REC-00231,Garbage Accumulation,2,13,10,5,77.6,Very High,Medium,6,6,Heavy Rain,MEDIUM
+REC-00232,Pothole,5,7,18,9,-11.2,Low,Very High,4,7,Heavy Rain,HIGH
+REC-00233,Other,1,27,13,11,39.9,High,Medium,5,2,Storm,MEDIUM
+REC-00234,Drainage,4,19,12,9,41.1,Very High,Low,6,8,Clear,HIGH
+REC-00235,Pothole,2,22,11,3,63.5,Low,Very High,6,6,Clear,MEDIUM
+REC-00236,Drainage,5,18,18,12,52.0,Very High,High,7,7,Moderate Rain,CRITICAL
+REC-00237,Garbage Accumulation,1,16,3,5,26.6,Low,Low,3,5,Heavy Rain,LOW
+REC-00238,Drainage,4,12,15,2,30.1,Very High,High,2,4,Clear,MEDIUM
+REC-00239,Other,1,1,10,11,-22.5,Medium,Medium,9,2,Moderate Rain,LOW
+REC-00240,Streetlight Failure,2,26,12,11,-10.5,Very High,Very High,1,3,Storm,MEDIUM
+REC-00241,Drainage,4,13,0,12,-5.6,High,Low,10,1,Moderate Rain,MEDIUM
+REC-00242,Pothole,3,22,15,9,114.5,High,Very High,10,6,Clear,CRITICAL
+REC-00243,Garbage Accumulation,3,28,14,10,-12.4,High,Low,3,5,Clear,MEDIUM
+REC-00244,Garbage Accumulation,2,17,12,7,55.4,Very High,Very High,3,7,Moderate Rain,HIGH
+REC-00245,Drainage,2,16,9,3,-10.1,Very High,Low,6,0,Storm,MEDIUM
+REC-00246,Drainage,5,21,15,7,69.6,Very High,Very High,8,2,Clear,CRITICAL
+REC-00247,Drainage,1,26,7,5,-34.8,Medium,High,3,7,Storm,MEDIUM
+REC-00248,Pothole,3,25,17,14,118.5,Low,Very High,9,3,Storm,CRITICAL
+REC-00249,Pothole,2,10,1,8,2.1,Low,Very High,2,3,Moderate Rain,LOW
+REC-00250,Garbage Accumulation,5,21,13,3,58.6,Medium,Medium,1,5,Heavy Rain,HIGH
+REC-00251,Drainage,5,6,10,12,6.8,High,Low,3,6,Clear,MEDIUM
+REC-00252,Water Leakage,2,8,4,12,11.5,Medium,Very High,8,2,Heavy Rain,MEDIUM
+REC-00253,Road Damage,4,13,14,2,61.4,Low,Very High,9,4,Heavy Rain,HIGH
+REC-00254,Drainage,1,28,2,12,115.5,High,Low,9,6,Moderate Rain,MEDIUM
+REC-00255,Streetlight Failure,2,16,8,6,92.5,High,Medium,10,7,Heavy Rain,HIGH
+REC-00256,Pothole,1,21,14,1,-20.1,Medium,Very High,8,0,Storm,LOW
+REC-00257,Water Leakage,2,21,9,3,99.9,High,Low,6,4,Clear,LOW
+REC-00258,Water Leakage,1,13,20,5,76.2,Medium,Very High,2,1,Clear,LOW
+REC-00259,Water Leakage,4,3,4,10,-3.8,Very High,Low,1,5,Clear,LOW
+REC-00260,Water Leakage,4,3,7,7,-25.7,Low,Low,6,5,Heavy Rain,MEDIUM
+REC-00261,Water Leakage,4,25,4,11,118.9,Medium,Low,9,0,Moderate Rain,MEDIUM
+REC-00262,Road Damage,2,14,19,11,30.8,Medium,Low,2,2,Clear,LOW
+REC-00263,Drainage,4,12,13,6,86.6,Medium,High,2,3,Heavy Rain,HIGH
+REC-00264,Other,3,7,16,10,41.5,Very High,High,1,3,Storm,MEDIUM
+REC-00265,Streetlight Failure,1,8,15,11,55.0,Low,High,6,2,Storm,LOW
+REC-00266,Garbage Accumulation,5,22,5,13,35.4,Low,Low,10,1,Clear,MEDIUM
+REC-00267,Garbage Accumulation,2,2,1,13,23.7,High,Very High,7,6,Clear,LOW
+REC-00268,Water Leakage,3,3,9,2,41.8,Medium,Medium,9,5,Storm,MEDIUM
+REC-00269,Drainage,1,10,13,12,112.5,Medium,Low,4,1,Storm,MEDIUM
+REC-00270,Pothole,3,22,5,2,-38.0,Medium,Low,3,7,Heavy Rain,MEDIUM
+REC-00271,Drainage,5,26,8,3,19.5,High,Low,1,5,Storm,HIGH
+REC-00272,Road Damage,5,21,2,8,32.8,High,Low,8,2,Heavy Rain,HIGH
+REC-00273,Water Leakage,3,25,3,15,51.8,Low,Medium,9,0,Clear,MEDIUM
+REC-00274,Pothole,4,12,12,15,-16.0,Low,Very High,4,5,Moderate Rain,MEDIUM
+REC-00275,Streetlight Failure,3,9,2,10,19.6,Low,Medium,4,8,Clear,LOW
+REC-00276,Streetlight Failure,3,25,9,6,-26.2,Very High,Low,6,3,Heavy Rain,MEDIUM
+REC-00277,Drainage,3,24,19,4,34.2,Very High,Medium,9,3,Moderate Rain,HIGH
+REC-00278,Water Leakage,5,12,20,14,71.0,Low,High,1,6,Heavy Rain,CRITICAL
+REC-00279,Pothole,2,17,7,7,38.7,Low,Medium,5,1,Clear,LOW
+REC-00280,Drainage,4,23,11,8,115.9,Low,Low,9,2,Storm,CRITICAL
+REC-00281,Pothole,5,19,1,7,66.0,Medium,Medium,5,4,Heavy Rain,HIGH
+REC-00282,Other,3,11,14,5,-2.6,Medium,Medium,10,1,Moderate Rain,LOW
+REC-00283,Pothole,2,15,14,6,25.0,High,Medium,8,4,Storm,HIGH
+REC-00284,Water Leakage,3,27,19,1,-5.6,High,Medium,2,3,Heavy Rain,HIGH
+REC-00285,Streetlight Failure,5,2,9,5,91.2,Medium,Low,7,7,Moderate Rain,MEDIUM
+REC-00286,Other,2,4,0,1,92.9,Medium,Medium,4,6,Heavy Rain,LOW
+REC-00287,Road Damage,1,19,18,5,106.8,Low,Low,2,3,Storm,MEDIUM
+REC-00288,Other,3,4,1,8,-31.9,Very High,Very High,8,0,Storm,LOW
+REC-00289,Road Damage,4,6,11,4,105.3,High,High,8,2,Clear,MEDIUM
+REC-00290,Road Damage,3,16,13,15,48.1,Low,Low,5,6,Moderate Rain,MEDIUM
+REC-00291,Streetlight Failure,2,21,16,4,60.9,Low,Very High,6,7,Storm,HIGH
+REC-00292,Garbage Accumulation,4,9,5,1,11.0,Medium,Low,5,0,Storm,LOW
+REC-00293,Drainage,3,25,18,4,115.8,Low,Medium,4,4,Clear,MEDIUM
+REC-00294,Drainage,4,12,5,3,-2.2,High,High,10,0,Heavy Rain,MEDIUM
+REC-00295,Drainage,5,5,18,4,93.9,Very High,High,3,7,Clear,HIGH
+REC-00296,Water Leakage,1,17,15,1,13.1,Medium,Medium,6,2,Heavy Rain,MEDIUM
+REC-00297,Pothole,1,5,18,12,106.8,Low,High,2,5,Storm,LOW
+REC-00298,Garbage Accumulation,2,6,13,13,62.3,Very High,High,3,8,Heavy Rain,MEDIUM
+REC-00299,Water Leakage,5,27,5,7,9.1,High,Medium,3,0,Storm,HIGH
+REC-00300,Drainage,1,6,19,6,107.4,Medium,Low,8,2,Heavy Rain,MEDIUM
+REC-00301,Road Damage,1,8,11,6,-13.1,Low,High,8,0,Heavy Rain,LOW
+REC-00302,Garbage Accumulation,3,26,3,12,-39.8,Very High,Very High,7,2,Storm,HIGH
+REC-00303,Streetlight Failure,4,12,17,7,-23.8,Very High,Medium,3,7,Clear,MEDIUM
+REC-00304,Pothole,3,9,3,2,14.7,Very High,Medium,2,8,Clear,LOW
+REC-00305,Garbage Accumulation,5,20,15,12,-35.0,Medium,Very High,3,0,Clear,MEDIUM
+REC-00306,Streetlight Failure,5,24,17,5,65.7,High,Medium,2,0,Storm,HIGH
+REC-00307,Drainage,5,27,15,3,-31.3,Low,Very High,2,4,Storm,CRITICAL
+REC-00308,Water Leakage,3,3,15,14,-21.5,Very High,Very High,8,4,Clear,MEDIUM
+REC-00309,Road Damage,5,13,5,6,101.7,High,Medium,8,0,Heavy Rain,HIGH
+REC-00310,Other,3,19,1,3,80.4,Low,Low,6,8,Storm,MEDIUM
+REC-00311,Other,5,8,17,1,94.5,Very High,Very High,10,3,Storm,CRITICAL
+REC-00312,Other,1,17,18,15,42.7,Medium,Low,8,2,Moderate Rain,MEDIUM
+REC-00313,Water Leakage,2,5,1,7,-27.5,Very High,Medium,3,4,Heavy Rain,LOW
+REC-00314,Pothole,1,13,17,7,48.3,High,Very High,1,8,Storm,HIGH
+REC-00315,Pothole,4,5,4,10,54.1,Low,Low,10,1,Heavy Rain,MEDIUM
+REC-00316,Streetlight Failure,3,13,20,8,51.5,Very High,Low,3,4,Storm,MEDIUM
+REC-00317,Water Leakage,5,20,12,1,23.3,High,Medium,1,7,Heavy Rain,CRITICAL
+REC-00318,Other,3,10,8,14,38.7,Low,Medium,3,4,Storm,MEDIUM
+REC-00319,Other,3,9,13,10,63.3,Medium,Very High,4,6,Storm,HIGH
+REC-00320,Other,1,17,5,2,9.8,Very High,Medium,9,0,Moderate Rain,LOW
+REC-00321,Water Leakage,2,27,1,4,-34.7,Low,High,4,4,Heavy Rain,MEDIUM
+REC-00322,Road Damage,1,22,0,4,19.6,Very High,Medium,8,8,Heavy Rain,MEDIUM
+REC-00323,Garbage Accumulation,2,27,8,12,92.9,Low,High,1,6,Clear,MEDIUM
+REC-00324,Water Leakage,2,21,7,11,-6.9,Very High,Low,1,7,Moderate Rain,MEDIUM
+REC-00325,Road Damage,2,20,0,4,0.4,High,High,7,6,Heavy Rain,MEDIUM
+REC-00326,Garbage Accumulation,5,27,19,7,53.5,Low,High,9,4,Heavy Rain,CRITICAL
+REC-00327,Road Damage,1,16,2,6,118.1,High,High,5,4,Moderate Rain,MEDIUM
+REC-00328,Pothole,5,13,10,11,-17.6,Low,Very High,5,4,Storm,HIGH
+REC-00329,Streetlight Failure,4,24,1,10,73.3,Medium,High,4,8,Storm,HIGH
+REC-00330,Drainage,3,28,5,14,65.2,Medium,High,2,7,Moderate Rain,MEDIUM
+REC-00331,Road Damage,3,24,17,13,106.0,High,Low,4,5,Moderate Rain,CRITICAL
+REC-00332,Other,3,12,8,10,7.0,Low,Very High,1,1,Storm,LOW
+REC-00333,Water Leakage,5,4,12,9,7.7,Low,Medium,3,3,Heavy Rain,MEDIUM
+REC-00334,Streetlight Failure,2,11,5,13,-27.1,High,Medium,6,0,Clear,LOW
+REC-00335,Streetlight Failure,3,7,5,10,82.3,Very High,Low,3,6,Storm,MEDIUM
+REC-00336,Streetlight Failure,1,2,17,4,76.9,Low,High,9,3,Clear,LOW
+REC-00337,Road Damage,1,21,7,4,71.0,High,High,3,1,Storm,MEDIUM
+REC-00338,Pothole,1,10,9,8,76.5,High,Very High,3,5,Storm,MEDIUM
+REC-00339,Garbage Accumulation,2,6,12,1,-3.5,Medium,Medium,1,8,Moderate Rain,LOW
+REC-00340,Other,1,13,20,5,83.4,Low,Low,2,0,Clear,LOW
+REC-00341,Road Damage,1,14,14,7,-20.2,High,Very High,3,3,Clear,LOW
+REC-00342,Road Damage,5,9,19,10,72.1,Very High,Low,9,1,Heavy Rain,CRITICAL
+REC-00343,Pothole,1,16,6,10,-8.0,High,Medium,6,6,Heavy Rain,MEDIUM
+REC-00344,Water Leakage,4,11,7,1,-38.0,Low,Low,10,7,Moderate Rain,MEDIUM
+REC-00345,Pothole,5,3,3,15,0.9,Medium,Very High,5,4,Storm,MEDIUM
+REC-00346,Other,1,28,9,6,88.3,High,Very High,2,1,Clear,LOW
+REC-00347,Pothole,2,22,20,3,12.6,Very High,High,2,5,Heavy Rain,HIGH
+REC-00348,Streetlight Failure,3,27,12,12,96.1,Very High,Medium,2,2,Clear,HIGH
+REC-00349,Other,2,4,13,15,54.5,Very High,Medium,10,6,Heavy Rain,MEDIUM
+REC-00350,Other,2,16,15,2,102.0,Very High,Low,2,4,Heavy Rain,MEDIUM
+REC-00351,Pothole,5,25,18,12,50.4,High,Low,7,3,Storm,CRITICAL
+REC-00352,Streetlight Failure,2,27,17,15,118.0,Low,Low,3,8,Storm,CRITICAL
+REC-00353,Other,4,28,5,2,80.2,High,Medium,6,4,Clear,MEDIUM
+REC-00354,Streetlight Failure,4,27,7,2,33.5,Very High,Low,8,7,Heavy Rain,HIGH
+REC-00355,Pothole,4,24,20,1,-23.6,Very High,Low,9,8,Clear,CRITICAL
+REC-00356,Drainage,3,17,17,4,64.7,Very High,High,6,0,Moderate Rain,MEDIUM
+REC-00357,Other,4,11,17,13,59.2,Very High,High,8,1,Clear,HIGH
+REC-00358,Garbage Accumulation,3,27,20,13,6.7,High,Low,1,2,Storm,HIGH
+REC-00359,Water Leakage,4,4,8,10,-8.7,Low,Very High,4,7,Moderate Rain,MEDIUM
+REC-00360,Streetlight Failure,1,21,18,2,83.5,Very High,Very High,10,8,Moderate Rain,HIGH
+REC-00361,Streetlight Failure,1,17,1,9,109.6,Very High,Medium,10,2,Moderate Rain,MEDIUM
+REC-00362,Drainage,3,17,12,7,116.7,Medium,High,7,5,Heavy Rain,CRITICAL
+REC-00363,Streetlight Failure,2,5,13,10,72.0,High,High,9,3,Moderate Rain,MEDIUM
+REC-00364,Road Damage,3,22,4,12,64.0,Medium,High,2,5,Storm,HIGH
+REC-00365,Drainage,5,22,13,11,79.7,High,Very High,1,8,Clear,CRITICAL
+REC-00366,Road Damage,1,7,8,13,85.7,High,High,3,0,Heavy Rain,LOW
+REC-00367,Water Leakage,5,2,11,14,32.4,Medium,Very High,4,8,Heavy Rain,CRITICAL
+REC-00368,Streetlight Failure,4,14,10,9,-31.4,High,Medium,10,7,Moderate Rain,HIGH
+REC-00369,Road Damage,3,25,18,9,78.2,Medium,Medium,5,7,Moderate Rain,HIGH
+REC-00370,Water Leakage,5,4,12,1,28.6,High,Medium,3,4,Clear,LOW
+REC-00371,Garbage Accumulation,4,23,4,1,-15.4,High,Low,10,4,Storm,MEDIUM
+REC-00372,Pothole,3,17,7,3,43.3,Medium,Very High,9,8,Storm,HIGH
+REC-00373,Pothole,3,8,6,11,13.1,High,High,4,8,Storm,HIGH
+REC-00374,Road Damage,1,4,11,8,-1.5,Medium,Low,6,6,Clear,LOW
+REC-00375,Streetlight Failure,3,18,9,1,105.8,High,Very High,8,0,Heavy Rain,MEDIUM
+REC-00376,Drainage,1,4,5,13,46.1,Low,Low,4,3,Storm,LOW
+REC-00377,Other,1,7,17,14,72.4,Very High,Low,3,0,Storm,LOW
+REC-00378,Pothole,1,6,8,9,-28.7,Medium,High,7,6,Storm,LOW
+REC-00379,Road Damage,4,14,10,1,22.3,Low,Low,10,1,Clear,LOW
+REC-00380,Drainage,1,10,9,10,-26.2,Very High,Very High,7,0,Storm,MEDIUM
+REC-00381,Water Leakage,5,8,4,12,22.6,High,Medium,5,5,Clear,MEDIUM
+REC-00382,Pothole,1,1,18,10,23.1,Low,High,4,5,Moderate Rain,LOW
+REC-00383,Streetlight Failure,5,5,5,3,-4.7,High,Medium,2,2,Clear,LOW
+REC-00384,Drainage,4,21,17,2,6.5,Low,High,2,3,Storm,HIGH
+REC-00385,Garbage Accumulation,3,5,20,4,-24.0,Low,Medium,6,7,Storm,MEDIUM
+REC-00386,Road Damage,5,5,18,10,18.3,High,Very High,3,0,Heavy Rain,HIGH
+REC-00387,Water Leakage,2,23,20,7,4.3,High,Medium,6,7,Storm,CRITICAL
+REC-00388,Streetlight Failure,5,4,5,11,57.1,High,Medium,9,3,Heavy Rain,MEDIUM
+REC-00389,Road Damage,1,24,2,15,-37.0,Low,Very High,10,3,Clear,LOW
+REC-00390,Drainage,4,21,4,6,22.8,High,Medium,8,8,Clear,HIGH
+REC-00391,Streetlight Failure,3,17,0,11,-1.8,Medium,Medium,8,2,Moderate Rain,LOW
+REC-00392,Other,2,24,15,6,-33.5,Very High,Medium,2,4,Heavy Rain,MEDIUM
+REC-00393,Water Leakage,1,22,6,9,105.2,High,Very High,8,7,Clear,HIGH
+REC-00394,Pothole,5,21,8,14,78.7,Medium,Very High,7,5,Clear,CRITICAL
+REC-00395,Drainage,3,13,7,9,24.9,High,Very High,8,0,Moderate Rain,MEDIUM
+REC-00396,Drainage,3,7,4,3,-14.8,Low,Medium,7,5,Clear,LOW
+REC-00397,Streetlight Failure,4,16,6,10,-14.2,Very High,Low,4,0,Moderate Rain,LOW
+REC-00398,Road Damage,5,2,18,3,-31.1,High,Medium,9,6,Clear,HIGH
+REC-00399,Road Damage,3,3,6,8,57.0,Very High,Very High,3,3,Storm,MEDIUM
+REC-00400,Other,2,20,16,5,-13.2,High,Very High,10,1,Moderate Rain,MEDIUM
+REC-00401,Streetlight Failure,4,5,3,1,-7.6,Very High,Medium,10,1,Moderate Rain,LOW
+REC-00402,Pothole,5,17,3,2,37.2,Medium,Low,7,8,Storm,HIGH
+REC-00403,Garbage Accumulation,1,23,16,7,-3.3,Very High,Very High,6,1,Storm,MEDIUM
+REC-00404,Water Leakage,1,10,19,15,47.0,High,Medium,1,0,Clear,LOW
+REC-00405,Drainage,1,13,20,4,70.0,High,Very High,6,1,Moderate Rain,LOW
+REC-00406,Garbage Accumulation,5,14,18,6,57.9,Very High,Medium,7,8,Storm,CRITICAL
+REC-00407,Water Leakage,3,18,17,8,0.6,High,High,7,2,Clear,MEDIUM
+REC-00408,Road Damage,2,4,6,9,24.1,High,Low,3,6,Clear,LOW
+REC-00409,Other,1,27,4,8,108.1,Very High,Low,2,4,Moderate Rain,LOW
+REC-00410,Road Damage,4,13,19,11,43.4,Low,Medium,8,7,Clear,HIGH
+REC-00411,Water Leakage,5,10,6,1,85.4,Medium,Medium,1,5,Moderate Rain,LOW
+REC-00412,Pothole,3,25,12,6,67.1,Very High,Medium,9,0,Clear,HIGH
+REC-00413,Pothole,5,10,17,15,53.3,High,High,4,3,Storm,CRITICAL
+REC-00414,Garbage Accumulation,2,14,16,2,49.4,High,High,2,8,Heavy Rain,MEDIUM
+REC-00415,Drainage,5,9,14,7,50.1,Medium,High,8,7,Clear,HIGH
+REC-00416,Streetlight Failure,2,22,7,13,10.5,High,Low,5,3,Heavy Rain,MEDIUM
+REC-00417,Pothole,4,22,10,2,48.7,Medium,Very High,6,5,Moderate Rain,HIGH
+REC-00418,Road Damage,2,16,6,4,77.7,High,Medium,4,3,Moderate Rain,MEDIUM
+REC-00419,Other,5,12,4,13,-22.9,Low,Very High,10,0,Clear,MEDIUM
+REC-00420,Garbage Accumulation,4,19,8,8,-10.7,High,Very High,4,2,Clear,MEDIUM
+REC-00421,Drainage,4,16,17,1,40.4,Very High,Medium,8,1,Storm,CRITICAL
+REC-00422,Road Damage,2,13,18,2,12.1,High,Medium,9,4,Moderate Rain,MEDIUM
+REC-00423,Garbage Accumulation,4,20,10,6,-10.6,Very High,Medium,7,5,Heavy Rain,HIGH
+REC-00424,Water Leakage,5,5,18,11,-3.4,Low,High,4,8,Storm,CRITICAL
+REC-00425,Other,4,7,4,13,113.5,Medium,Very High,1,2,Storm,MEDIUM
+REC-00426,Other,5,18,10,13,37.9,High,Low,7,1,Moderate Rain,HIGH
+REC-00427,Pothole,2,27,8,8,94.2,Low,Very High,6,4,Heavy Rain,MEDIUM
+REC-00428,Other,3,12,0,7,-20.6,Medium,Medium,5,5,Heavy Rain,LOW
+REC-00429,Road Damage,5,16,14,15,-27.5,High,Very High,3,2,Heavy Rain,CRITICAL
+REC-00430,Streetlight Failure,1,3,5,6,-3.5,High,High,5,6,Heavy Rain,LOW
+REC-00431,Streetlight Failure,3,24,18,9,114.5,Very High,Medium,3,0,Moderate Rain,HIGH
+REC-00432,Road Damage,1,7,5,7,-23.5,Low,Very High,9,0,Clear,LOW
+REC-00433,Other,4,17,2,2,2.0,Medium,Low,7,4,Moderate Rain,LOW
+REC-00434,Road Damage,2,5,16,14,-12.7,Low,High,6,7,Storm,MEDIUM
+REC-00435,Other,5,9,17,8,-18.4,Medium,Very High,10,6,Heavy Rain,CRITICAL
+REC-00436,Water Leakage,1,15,9,6,26.0,Medium,High,1,0,Moderate Rain,LOW
+REC-00437,Garbage Accumulation,3,16,17,1,70.0,Very High,Very High,5,0,Storm,HIGH
+REC-00438,Other,1,18,11,4,25.9,Very High,Very High,4,2,Storm,LOW
+REC-00439,Other,4,8,8,2,27.6,Medium,High,5,8,Heavy Rain,MEDIUM
+REC-00440,Water Leakage,2,10,3,11,32.9,Very High,High,10,7,Moderate Rain,MEDIUM
+REC-00441,Garbage Accumulation,1,5,1,9,-36.5,Low,High,5,2,Storm,LOW
+REC-00442,Water Leakage,1,16,6,6,27.2,Very High,High,8,0,Heavy Rain,MEDIUM
+REC-00443,Pothole,2,2,8,13,22.8,Very High,Medium,4,4,Storm,MEDIUM
+REC-00444,Other,2,13,14,4,78.0,Low,Medium,8,1,Moderate Rain,LOW
+REC-00445,Streetlight Failure,4,22,9,15,11.7,Low,Low,5,7,Heavy Rain,HIGH
+REC-00446,Other,2,4,7,11,29.5,Low,Medium,5,1,Storm,LOW
+REC-00447,Other,2,1,1,10,85.4,Very High,Medium,6,1,Moderate Rain,LOW
+REC-00448,Drainage,3,25,20,1,-30.4,Medium,Low,3,7,Moderate Rain,MEDIUM
+REC-00449,Garbage Accumulation,5,26,20,13,15.6,Very High,Medium,1,6,Heavy Rain,CRITICAL
+REC-00450,Pothole,4,23,14,9,7.2,Very High,Medium,10,2,Heavy Rain,CRITICAL
+REC-00451,Garbage Accumulation,4,9,19,15,97.7,Medium,Low,9,2,Storm,CRITICAL
+REC-00452,Garbage Accumulation,4,1,20,9,20.6,Medium,Low,10,5,Moderate Rain,MEDIUM
+REC-00453,Garbage Accumulation,1,22,17,14,22.0,Very High,Medium,10,4,Heavy Rain,HIGH
+REC-00454,Pothole,5,22,2,1,93.6,Medium,Medium,1,3,Clear,MEDIUM
+REC-00455,Streetlight Failure,2,4,1,10,62.7,Very High,Very High,9,4,Clear,LOW
+REC-00456,Pothole,1,7,20,8,108.5,Low,Very High,1,5,Storm,MEDIUM
+REC-00457,Other,3,26,1,14,58.7,Low,Low,5,1,Moderate Rain,MEDIUM
+REC-00458,Road Damage,2,18,12,4,-9.1,Medium,Medium,9,8,Storm,MEDIUM
+REC-00459,Road Damage,1,25,20,10,17.3,Very High,Very High,2,2,Moderate Rain,MEDIUM
+REC-00460,Road Damage,2,18,19,8,109.4,High,High,6,6,Storm,CRITICAL
+REC-00461,Other,3,20,7,10,47.3,Very High,High,6,7,Storm,CRITICAL
+REC-00462,Pothole,3,20,0,9,-18.4,High,Low,5,3,Moderate Rain,MEDIUM
+REC-00463,Other,3,1,8,15,48.6,Medium,Low,1,7,Heavy Rain,LOW
+REC-00464,Drainage,2,8,8,13,8.0,Very High,Medium,2,5,Storm,MEDIUM
+REC-00465,Water Leakage,4,27,18,14,105.2,High,Low,10,6,Clear,CRITICAL
+REC-00466,Garbage Accumulation,3,27,13,7,108.8,Low,Medium,10,0,Storm,HIGH
+REC-00467,Pothole,3,17,1,6,46.4,Medium,High,9,3,Moderate Rain,MEDIUM
+REC-00468,Streetlight Failure,4,25,19,10,40.8,Medium,Very High,5,6,Moderate Rain,CRITICAL
+REC-00469,Water Leakage,3,3,15,10,79.3,Very High,High,2,6,Storm,HIGH
+REC-00470,Water Leakage,4,18,6,8,23.3,Medium,Medium,4,1,Heavy Rain,MEDIUM
+REC-00471,Other,4,11,18,2,-22.0,Very High,Very High,6,5,Moderate Rain,MEDIUM
+REC-00472,Pothole,3,6,11,10,91.5,Very High,Medium,8,0,Moderate Rain,HIGH
+REC-00473,Water Leakage,3,5,2,2,78.3,Medium,Medium,5,0,Heavy Rain,LOW
+REC-00474,Streetlight Failure,4,1,10,4,78.4,Medium,Medium,9,8,Heavy Rain,MEDIUM
+REC-00475,Drainage,4,20,4,12,71.8,Low,Very High,10,8,Clear,CRITICAL
+REC-00476,Water Leakage,5,9,1,8,64.8,Low,Low,7,4,Heavy Rain,HIGH
+REC-00477,Other,1,1,9,14,101.3,Very High,Medium,7,8,Clear,MEDIUM
+REC-00478,Drainage,5,3,5,4,40.1,Very High,Low,1,3,Heavy Rain,MEDIUM
+REC-00479,Garbage Accumulation,4,13,5,1,15.5,High,High,5,3,Heavy Rain,MEDIUM
+REC-00480,Streetlight Failure,1,18,8,4,-15.7,Very High,Medium,2,6,Moderate Rain,LOW
+REC-00481,Streetlight Failure,2,19,4,7,115.3,High,Very High,9,2,Moderate Rain,MEDIUM
+REC-00482,Road Damage,2,28,4,5,70.2,Medium,Very High,3,2,Heavy Rain,LOW
+REC-00483,Pothole,5,18,3,3,10.8,Medium,Low,6,6,Storm,MEDIUM
+REC-00484,Other,3,5,6,2,-19.0,Low,High,10,3,Moderate Rain,LOW
+REC-00485,Water Leakage,1,12,2,12,84.8,Medium,Very High,6,2,Storm,MEDIUM
+REC-00486,Water Leakage,2,2,13,13,115.0,High,Very High,4,3,Moderate Rain,MEDIUM
+REC-00487,Pothole,2,15,19,8,70.1,Very High,Medium,7,6,Clear,HIGH
+REC-00488,Road Damage,3,13,19,12,51.5,Low,Low,8,7,Clear,HIGH
+REC-00489,Water Leakage,5,18,12,12,-33.7,Very High,Low,4,4,Storm,CRITICAL
+REC-00490,Other,3,15,5,7,7.1,Low,Medium,8,7,Clear,MEDIUM
+REC-00491,Road Damage,5,4,5,13,53.7,Medium,Very High,7,5,Storm,HIGH
+REC-00492,Road Damage,2,15,2,5,11.9,Medium,Low,2,1,Storm,LOW
+REC-00493,Road Damage,3,3,16,12,21.5,Medium,Very High,9,6,Clear,MEDIUM
+REC-00494,Drainage,2,6,4,3,83.1,Low,Very High,5,4,Storm,LOW
+REC-00495,Garbage Accumulation,2,4,4,4,-39.4,High,Low,8,7,Storm,LOW
+REC-00496,Streetlight Failure,2,7,18,11,36.1,Very High,Very High,2,0,Moderate Rain,LOW
+REC-00497,Drainage,3,20,20,9,91.2,Medium,Low,3,2,Clear,MEDIUM
+REC-00498,Other,1,22,18,14,56.5,High,Low,1,1,Storm,MEDIUM
+REC-00499,Water Leakage,2,22,9,10,65.7,Medium,Very High,10,5,Clear,HIGH
+REC-00500,Garbage Accumulation,4,27,2,13,28.4,Low,High,8,2,Clear,MEDIUM
+REC-00501,Road Damage,3,11,16,7,43.9,Medium,Low,2,8,Clear,LOW
+REC-00502,Other,3,14,19,14,10.6,High,Medium,10,7,Storm,CRITICAL
+REC-00503,Streetlight Failure,2,20,7,12,6.5,Medium,Low,2,0,Storm,LOW
+REC-00504,Other,2,26,19,7,26.2,High,High,9,3,Clear,MEDIUM
+REC-00505,Road Damage,2,23,9,5,86.4,High,High,9,8,Heavy Rain,CRITICAL
+REC-00506,Garbage Accumulation,3,13,18,10,113.6,Medium,Medium,6,5,Storm,HIGH
+REC-00507,Streetlight Failure,1,21,4,8,-15.1,Very High,High,8,6,Clear,MEDIUM
+REC-00508,Road Damage,3,18,17,1,-6.7,High,High,2,2,Heavy Rain,MEDIUM
+REC-00509,Other,1,11,12,11,45.5,Medium,Very High,3,1,Heavy Rain,LOW
+REC-00510,Pothole,3,14,2,8,100.3,High,Very High,5,3,Heavy Rain,HIGH
+REC-00511,Water Leakage,1,12,1,13,-7.7,Low,Very High,9,0,Storm,MEDIUM
+REC-00512,Garbage Accumulation,4,24,16,5,84.1,Medium,Low,9,2,Moderate Rain,HIGH
+REC-00513,Road Damage,1,15,12,12,98.4,Low,Low,5,0,Clear,LOW
+REC-00514,Pothole,5,25,9,1,52.4,High,Medium,6,3,Moderate Rain,CRITICAL
+REC-00515,Garbage Accumulation,3,18,10,13,30.6,Low,High,3,2,Heavy Rain,MEDIUM
+REC-00516,Drainage,5,4,6,9,16.1,High,High,3,4,Moderate Rain,MEDIUM
+REC-00517,Water Leakage,1,10,19,15,14.2,Very High,Low,3,0,Storm,MEDIUM
+REC-00518,Streetlight Failure,1,3,13,7,-11.4,Very High,High,5,5,Moderate Rain,LOW
+REC-00519,Road Damage,5,3,14,10,-18.9,Very High,Low,8,4,Storm,HIGH
+REC-00520,Water Leakage,5,9,11,7,-10.7,High,High,8,7,Clear,HIGH
+REC-00521,Pothole,4,4,11,8,33.8,Medium,High,6,2,Clear,LOW
+REC-00522,Pothole,3,18,20,2,86.8,Very High,Very High,10,6,Moderate Rain,CRITICAL
+REC-00523,Drainage,2,18,5,8,21.4,High,Medium,10,6,Storm,HIGH
+REC-00524,Road Damage,2,6,2,12,108.9,Very High,Low,10,7,Heavy Rain,HIGH
+REC-00525,Drainage,1,27,14,3,9.3,Very High,Low,10,1,Storm,MEDIUM
+REC-00526,Pothole,1,7,4,15,52.9,Low,Medium,3,7,Heavy Rain,LOW
+REC-00527,Streetlight Failure,5,19,14,4,-7.1,High,High,10,4,Storm,CRITICAL
+REC-00528,Pothole,5,1,19,9,24.7,Medium,High,1,5,Clear,LOW
+REC-00529,Pothole,5,27,11,2,97.8,Low,Medium,7,6,Heavy Rain,HIGH
+REC-00530,Streetlight Failure,5,7,5,8,-17.7,Very High,High,7,2,Heavy Rain,MEDIUM
+REC-00531,Other,2,5,0,2,63.7,Medium,Very High,7,2,Clear,LOW
+REC-00532,Other,4,26,19,15,28.1,Medium,Very High,9,6,Storm,CRITICAL
+REC-00533,Streetlight Failure,3,8,5,7,56.7,Very High,Medium,9,4,Storm,MEDIUM
+REC-00534,Pothole,1,19,15,12,19.0,Very High,Low,3,8,Heavy Rain,HIGH
+REC-00535,Streetlight Failure,5,3,16,15,57.6,Medium,Very High,2,8,Heavy Rain,HIGH
+REC-00536,Drainage,1,16,14,9,105.0,High,Very High,6,4,Heavy Rain,HIGH
+REC-00537,Water Leakage,1,23,19,12,8.7,High,Low,8,2,Clear,MEDIUM
+REC-00538,Road Damage,5,1,9,8,-26.8,Low,High,5,2,Heavy Rain,LOW
+REC-00539,Garbage Accumulation,3,1,3,10,-12.1,Medium,Very High,6,2,Heavy Rain,LOW
+REC-00540,Water Leakage,5,28,1,6,117.5,Medium,Medium,8,6,Storm,CRITICAL
+REC-00541,Water Leakage,4,24,20,3,-6.3,High,Low,5,1,Clear,MEDIUM
+REC-00542,Garbage Accumulation,4,24,17,4,20.8,Very High,Very High,5,2,Storm,CRITICAL
+REC-00543,Pothole,3,26,14,7,68.6,Low,Low,9,5,Storm,HIGH
+REC-00544,Garbage Accumulation,3,9,8,13,-24.3,Very High,Very High,4,3,Heavy Rain,MEDIUM
+REC-00545,Road Damage,2,11,17,1,67.6,Low,Low,7,1,Clear,LOW
+REC-00546,Road Damage,3,9,6,1,-36.2,Low,Low,10,3,Clear,LOW
+REC-00547,Road Damage,1,3,19,3,20.2,Medium,Low,3,4,Heavy Rain,LOW
+REC-00548,Road Damage,4,9,13,12,104.5,High,High,3,1,Heavy Rain,HIGH
+REC-00549,Other,1,13,12,6,119.4,High,High,3,7,Clear,LOW
+REC-00550,Drainage,4,6,20,8,-22.7,Very High,Medium,10,1,Storm,CRITICAL
+REC-00551,Road Damage,3,4,1,2,-28.7,High,Very High,1,7,Moderate Rain,LOW
+REC-00552,Pothole,4,9,4,12,12.8,Very High,Low,9,7,Storm,CRITICAL
+REC-00553,Streetlight Failure,4,28,2,9,-3.9,Very High,Very High,2,8,Heavy Rain,HIGH
+REC-00554,Pothole,1,12,17,14,113.7,Low,Very High,5,3,Moderate Rain,MEDIUM
+REC-00555,Drainage,1,13,6,5,71.3,Low,High,8,1,Storm,MEDIUM
+REC-00556,Water Leakage,1,24,18,4,38.3,Low,High,8,8,Storm,HIGH
+REC-00557,Pothole,1,11,1,6,86.0,Low,Very High,2,3,Storm,LOW
+REC-00558,Drainage,2,24,18,4,108.0,Low,Medium,8,0,Storm,HIGH
+REC-00559,Drainage,1,8,20,3,-37.7,Low,High,2,7,Moderate Rain,LOW
+REC-00560,Other,1,4,15,10,87.9,Medium,Low,4,6,Heavy Rain,LOW
+REC-00561,Other,4,11,3,11,52.2,Medium,High,4,0,Moderate Rain,LOW
+REC-00562,Water Leakage,4,6,11,9,-13.6,Medium,Low,3,1,Storm,MEDIUM
+REC-00563,Other,2,1,15,2,-39.0,Medium,Low,10,4,Storm,LOW
+REC-00564,Streetlight Failure,2,7,4,11,3.4,Very High,Very High,4,2,Clear,LOW
+REC-00565,Drainage,2,23,15,10,112.0,High,High,7,0,Moderate Rain,HIGH
+REC-00566,Pothole,5,12,17,9,-4.9,Medium,High,1,3,Clear,MEDIUM
+REC-00567,Other,2,22,15,8,-11.8,Low,Low,6,4,Moderate Rain,MEDIUM
+REC-00568,Other,4,2,3,12,-31.6,Medium,Medium,1,7,Clear,LOW
+REC-00569,Pothole,2,24,14,10,52.8,Very High,Medium,6,3,Clear,HIGH
+REC-00570,Road Damage,4,28,6,7,102.6,Low,Very High,10,7,Clear,CRITICAL
+REC-00571,Streetlight Failure,2,7,19,8,-11.5,High,Medium,8,3,Heavy Rain,MEDIUM
+REC-00572,Water Leakage,1,23,18,1,4.9,Low,Very High,8,6,Moderate Rain,MEDIUM
+REC-00573,Other,3,8,9,10,-14.9,Medium,Medium,2,6,Storm,LOW
+REC-00574,Streetlight Failure,4,9,0,12,28.5,Medium,Medium,6,6,Moderate Rain,MEDIUM
+REC-00575,Drainage,2,19,0,7,116.8,Low,Very High,9,0,Storm,MEDIUM
+REC-00576,Other,1,15,15,4,-26.7,Low,Very High,4,2,Heavy Rain,LOW
+REC-00577,Garbage Accumulation,2,21,2,1,36.8,High,Medium,8,0,Storm,LOW
+REC-00578,Road Damage,4,6,11,11,34.3,Low,Low,7,5,Clear,MEDIUM
+REC-00579,Garbage Accumulation,4,25,8,12,111.4,Medium,Low,10,5,Clear,HIGH
+REC-00580,Garbage Accumulation,1,4,12,6,34.5,Low,High,6,2,Clear,LOW
+REC-00581,Drainage,2,5,10,4,46.3,Very High,Medium,4,5,Heavy Rain,MEDIUM
+REC-00582,Streetlight Failure,3,2,2,6,15.2,Very High,Low,8,8,Heavy Rain,LOW
+REC-00583,Streetlight Failure,5,12,2,4,102.7,Very High,Low,2,6,Moderate Rain,MEDIUM
+REC-00584,Pothole,2,9,3,12,-16.3,Medium,Medium,9,0,Heavy Rain,LOW
+REC-00585,Streetlight Failure,5,5,15,6,27.2,Low,High,4,1,Clear,LOW
+REC-00586,Drainage,3,14,18,6,64.9,High,Very High,10,8,Storm,CRITICAL
+REC-00587,Streetlight Failure,3,19,4,15,86.3,Medium,High,4,7,Heavy Rain,HIGH
+REC-00588,Pothole,2,12,9,8,113.0,Medium,High,3,2,Moderate Rain,LOW
+REC-00589,Water Leakage,2,4,1,6,51.9,Very High,High,6,2,Moderate Rain,LOW
+REC-00590,Garbage Accumulation,3,5,11,8,46.4,Medium,High,2,0,Storm,LOW
+REC-00591,Streetlight Failure,2,15,10,3,-39.3,High,High,8,4,Moderate Rain,LOW
+REC-00592,Streetlight Failure,3,23,3,12,36.6,Low,Medium,9,1,Heavy Rain,MEDIUM
+REC-00593,Pothole,4,20,7,8,17.2,High,Low,10,3,Moderate Rain,HIGH
+REC-00594,Water Leakage,1,3,17,14,31.3,Low,Very High,4,7,Heavy Rain,MEDIUM
+REC-00595,Drainage,5,17,1,15,66.7,Very High,Medium,7,5,Storm,CRITICAL
+REC-00596,Garbage Accumulation,3,15,17,2,-5.5,Very High,Very High,8,4,Moderate Rain,HIGH
+REC-00597,Other,4,24,13,3,93.7,Low,Medium,4,4,Storm,HIGH
+REC-00598,Garbage Accumulation,1,19,12,2,-38.9,High,Very High,3,8,Storm,MEDIUM
+REC-00599,Road Damage,5,25,4,4,-10.2,Very High,High,9,7,Clear,CRITICAL
+REC-00600,Drainage,3,16,17,12,34.2,Low,Low,3,4,Heavy Rain,HIGH
+REC-00601,Road Damage,4,4,20,11,102.8,Very High,Medium,8,3,Clear,CRITICAL
+REC-00602,Pothole,5,24,11,10,36.9,Very High,High,8,1,Heavy Rain,CRITICAL
+REC-00603,Drainage,5,1,8,3,53.1,Medium,High,8,2,Heavy Rain,MEDIUM
+REC-00604,Streetlight Failure,3,2,9,5,44.7,Low,Medium,3,1,Moderate Rain,LOW
+REC-00605,Drainage,3,28,10,14,95.2,High,High,6,1,Heavy Rain,CRITICAL
+REC-00606,Drainage,3,12,15,7,14.5,Medium,Low,4,2,Moderate Rain,LOW
+REC-00607,Other,2,26,17,10,70.3,Low,Very High,8,1,Clear,MEDIUM
+REC-00608,Streetlight Failure,3,10,11,3,90.7,High,Medium,5,0,Clear,LOW
+REC-00609,Water Leakage,2,28,4,12,-3.7,Medium,Medium,3,1,Storm,MEDIUM
+REC-00610,Pothole,1,25,15,13,29.0,Medium,Low,1,8,Clear,LOW
+REC-00611,Streetlight Failure,1,9,1,2,8.3,Low,Low,2,3,Moderate Rain,LOW
+REC-00612,Pothole,2,28,8,10,15.7,Medium,Medium,9,1,Clear,MEDIUM
+REC-00613,Other,5,25,0,9,-5.3,Medium,High,3,8,Clear,MEDIUM
+REC-00614,Water Leakage,5,28,15,6,71.7,Medium,Very High,2,2,Heavy Rain,CRITICAL
+REC-00615,Streetlight Failure,4,7,16,4,25.2,High,Low,8,1,Moderate Rain,LOW
+REC-00616,Garbage Accumulation,5,24,1,2,12.5,Low,Very High,5,7,Heavy Rain,HIGH
+REC-00617,Road Damage,4,8,17,7,6.5,Very High,Medium,2,7,Heavy Rain,HIGH
+REC-00618,Streetlight Failure,1,13,14,9,65.4,Low,Low,3,6,Storm,MEDIUM
+REC-00619,Road Damage,5,4,5,2,18.2,Medium,High,4,6,Clear,LOW
+REC-00620,Streetlight Failure,3,25,18,10,3.7,Very High,High,8,6,Storm,CRITICAL
+REC-00621,Drainage,3,5,14,2,-20.4,Very High,Very High,4,2,Clear,LOW
+REC-00622,Pothole,4,22,0,3,21.2,High,Medium,5,1,Clear,MEDIUM
+REC-00623,Road Damage,5,25,15,13,34.6,High,Very High,8,8,Heavy Rain,CRITICAL
+REC-00624,Drainage,5,1,1,7,100.8,Low,Very High,8,5,Storm,HIGH
+REC-00625,Streetlight Failure,4,2,1,3,49.1,High,Medium,8,6,Moderate Rain,LOW
+REC-00626,Other,1,19,15,11,48.6,Very High,Very High,9,2,Clear,HIGH
+REC-00627,Streetlight Failure,3,16,18,7,58.7,High,High,6,0,Clear,MEDIUM
+REC-00628,Garbage Accumulation,3,26,18,1,82.4,High,Very High,2,6,Heavy Rain,HIGH
+REC-00629,Garbage Accumulation,4,12,1,11,-0.9,Medium,High,10,1,Clear,LOW
+REC-00630,Water Leakage,1,18,10,1,33.7,Very High,Very High,5,0,Storm,MEDIUM
+REC-00631,Drainage,1,11,12,10,22.4,Low,Very High,2,3,Heavy Rain,LOW
+REC-00632,Road Damage,3,6,19,5,18.1,Very High,Medium,8,1,Moderate Rain,MEDIUM
+REC-00633,Garbage Accumulation,3,2,9,10,24.3,Medium,Low,10,1,Heavy Rain,LOW
+REC-00634,Drainage,4,14,6,6,87.3,High,High,7,8,Heavy Rain,CRITICAL
+REC-00635,Water Leakage,4,13,8,10,42.5,Medium,Low,9,2,Storm,HIGH
+REC-00636,Road Damage,4,9,20,9,89.4,Very High,Low,9,3,Heavy Rain,CRITICAL
+REC-00637,Streetlight Failure,2,8,4,12,69.6,High,Very High,7,5,Clear,LOW
+REC-00638,Garbage Accumulation,3,21,5,5,69.9,Medium,Very High,4,1,Moderate Rain,LOW
+REC-00639,Water Leakage,1,8,9,8,37.7,Very High,Very High,1,3,Moderate Rain,LOW
+REC-00640,Other,3,22,17,3,63.1,Low,Very High,1,0,Clear,LOW
+REC-00641,Garbage Accumulation,5,10,2,15,112.8,High,Low,7,2,Moderate Rain,HIGH
+REC-00642,Pothole,5,22,18,13,109.0,High,Very High,2,3,Clear,CRITICAL
+REC-00643,Other,3,11,18,12,22.4,Medium,Very High,4,2,Clear,MEDIUM
+REC-00644,Streetlight Failure,4,9,18,1,38.5,High,Low,6,8,Storm,HIGH
+REC-00645,Streetlight Failure,2,9,4,6,36.0,High,High,1,0,Clear,LOW
+REC-00646,Water Leakage,3,18,12,5,62.2,High,Low,9,3,Storm,HIGH
+REC-00647,Streetlight Failure,1,13,8,5,-25.6,Medium,High,4,2,Storm,LOW
+REC-00648,Other,4,26,1,5,98.6,Very High,Very High,7,5,Storm,HIGH
+REC-00649,Other,1,27,5,12,1.8,Low,High,7,8,Heavy Rain,MEDIUM
+REC-00650,Pothole,2,21,14,13,62.6,Low,Very High,4,4,Heavy Rain,HIGH
+REC-00651,Drainage,1,4,5,4,42.6,Medium,Very High,6,7,Storm,MEDIUM
+REC-00652,Water Leakage,5,27,10,13,5.1,Low,Very High,6,2,Storm,CRITICAL
+REC-00653,Streetlight Failure,5,8,0,1,107.7,Medium,Low,8,3,Heavy Rain,MEDIUM
+REC-00654,Streetlight Failure,5,14,19,5,-16.1,High,Medium,10,1,Clear,HIGH
+REC-00655,Road Damage,5,14,14,14,67.8,Low,Medium,4,3,Heavy Rain,HIGH
+REC-00656,Water Leakage,4,28,6,10,-5.5,High,Medium,7,2,Storm,CRITICAL
+REC-00657,Other,2,1,9,5,-2.3,Very High,Medium,6,7,Clear,LOW
+REC-00658,Garbage Accumulation,4,22,6,12,21.4,Very High,High,2,1,Clear,MEDIUM
+REC-00659,Pothole,3,8,15,15,16.7,Low,Low,5,8,Storm,MEDIUM
+REC-00660,Garbage Accumulation,2,18,1,10,-11.3,Medium,Very High,6,7,Moderate Rain,MEDIUM
+REC-00661,Pothole,3,23,16,7,-17.3,Low,High,1,2,Storm,MEDIUM
+REC-00662,Road Damage,3,14,9,15,100.3,High,High,7,2,Heavy Rain,HIGH
+REC-00663,Road Damage,4,25,4,9,96.5,Very High,Low,4,2,Clear,HIGH
+REC-00664,Garbage Accumulation,2,23,14,7,-21.4,Very High,Low,8,5,Storm,HIGH
+REC-00665,Streetlight Failure,4,4,4,2,15.9,Medium,High,3,2,Heavy Rain,LOW
+REC-00666,Water Leakage,5,1,16,13,51.3,Very High,Low,4,7,Clear,HIGH
+REC-00667,Garbage Accumulation,1,10,3,7,19.8,Low,High,3,0,Clear,LOW
+REC-00668,Streetlight Failure,4,21,8,10,65.3,High,Low,10,7,Heavy Rain,CRITICAL
+REC-00669,Road Damage,5,5,6,14,-32.2,High,High,1,1,Storm,MEDIUM
+REC-00670,Water Leakage,4,3,0,14,-6.7,Very High,Very High,5,2,Clear,LOW
+REC-00671,Garbage Accumulation,4,26,13,12,89.0,High,Medium,6,1,Heavy Rain,HIGH
+REC-00672,Streetlight Failure,4,9,18,10,27.7,Very High,High,10,2,Storm,HIGH
+REC-00673,Road Damage,4,3,1,9,14.7,Very High,Medium,3,7,Clear,MEDIUM
+REC-00674,Other,4,10,4,3,69.5,High,Medium,9,6,Heavy Rain,MEDIUM
+REC-00675,Drainage,1,18,2,15,-32.8,Low,Very High,7,1,Storm,MEDIUM
+REC-00676,Garbage Accumulation,3,9,18,2,83.0,Low,Low,8,2,Moderate Rain,LOW
+REC-00677,Other,4,2,2,7,100.3,High,High,10,7,Storm,MEDIUM
+REC-00678,Other,2,7,5,2,79.5,High,Low,7,8,Clear,LOW
+REC-00679,Pothole,4,4,0,3,64.9,Very High,Very High,10,7,Heavy Rain,HIGH
+REC-00680,Garbage Accumulation,4,26,9,2,-20.0,Low,Medium,2,0,Moderate Rain,LOW
+REC-00681,Other,1,7,15,11,-16.8,Medium,Very High,9,3,Clear,LOW
+REC-00682,Streetlight Failure,4,1,3,3,104.4,Very High,Very High,8,0,Storm,MEDIUM
+REC-00683,Drainage,2,7,9,10,92.7,Very High,Low,6,0,Clear,LOW
+REC-00684,Streetlight Failure,4,24,18,10,77.0,High,Low,8,6,Storm,CRITICAL
+REC-00685,Drainage,5,24,19,15,68.6,Very High,Medium,1,8,Clear,CRITICAL
+REC-00686,Pothole,3,21,13,15,35.7,Very High,High,8,6,Clear,CRITICAL
+REC-00687,Water Leakage,3,24,6,8,15.0,Medium,Medium,10,5,Storm,CRITICAL
+REC-00688,Road Damage,4,14,20,12,17.6,Very High,Medium,10,3,Heavy Rain,CRITICAL
+REC-00689,Road Damage,1,22,15,3,-12.3,Medium,Very High,2,6,Storm,MEDIUM
+REC-00690,Pothole,1,12,8,6,68.3,Medium,Low,2,5,Storm,LOW
+REC-00691,Pothole,5,8,3,9,-4.1,High,High,6,0,Heavy Rain,MEDIUM
+REC-00692,Other,5,20,3,12,-31.9,Very High,Very High,2,1,Clear,MEDIUM
+REC-00693,Other,5,2,16,2,-13.3,Low,Medium,6,2,Heavy Rain,LOW
+REC-00694,Streetlight Failure,1,5,20,6,13.5,Medium,Low,4,7,Storm,LOW
+REC-00695,Other,1,8,15,6,5.9,Medium,Low,5,5,Storm,LOW
+REC-00696,Water Leakage,5,14,7,3,88.3,Very High,Very High,8,8,Heavy Rain,CRITICAL
+REC-00697,Pothole,4,5,0,12,89.0,Low,Low,6,5,Storm,MEDIUM
+REC-00698,Pothole,4,25,1,11,107.6,Medium,Low,9,4,Storm,HIGH
+REC-00699,Streetlight Failure,5,28,9,12,78.8,High,Low,5,8,Moderate Rain,CRITICAL
+REC-00700,Water Leakage,5,20,19,11,30.7,High,Very High,4,4,Clear,CRITICAL
+REC-00701,Pothole,5,11,12,12,75.0,Medium,High,4,1,Heavy Rain,MEDIUM
+REC-00702,Water Leakage,1,1,17,10,1.4,High,Very High,9,1,Clear,LOW
+REC-00703,Other,3,9,20,9,16.7,Low,Low,8,4,Clear,LOW
+REC-00704,Other,5,19,20,11,45.3,Medium,High,5,4,Moderate Rain,CRITICAL
+REC-00705,Road Damage,4,17,7,2,12.5,Medium,High,8,1,Moderate Rain,MEDIUM
+REC-00706,Pothole,1,2,13,15,-19.2,Medium,Very High,2,5,Storm,LOW
+REC-00707,Drainage,5,17,12,14,2.2,Very High,Very High,8,7,Storm,CRITICAL
+REC-00708,Water Leakage,4,23,14,3,114.9,Low,Medium,8,7,Clear,HIGH
+REC-00709,Road Damage,2,18,11,15,112.3,Very High,Low,2,5,Heavy Rain,CRITICAL
+REC-00710,Garbage Accumulation,3,12,9,5,37.7,Medium,Medium,10,6,Clear,MEDIUM
+REC-00711,Garbage Accumulation,3,7,5,14,78.3,Low,Low,9,5,Clear,MEDIUM
+REC-00712,Drainage,3,19,14,15,14.1,Very High,Very High,10,2,Moderate Rain,HIGH
+REC-00713,Drainage,4,25,14,11,31.9,High,Low,10,6,Storm,CRITICAL
+REC-00714,Drainage,1,22,14,12,4.4,Low,Medium,1,4,Clear,LOW
+REC-00715,Road Damage,5,3,6,10,46.7,Low,Medium,8,8,Clear,MEDIUM
+REC-00716,Water Leakage,1,9,6,4,92.8,Very High,Low,9,5,Storm,MEDIUM
+REC-00717,Drainage,1,16,0,6,29.9,Very High,Low,9,5,Storm,MEDIUM
+REC-00718,Pothole,5,6,9,3,-10.8,Low,Medium,5,6,Moderate Rain,LOW
+REC-00719,Pothole,5,11,5,1,74.1,High,Very High,2,5,Moderate Rain,MEDIUM
+REC-00720,Streetlight Failure,1,2,6,4,80.3,Medium,Very High,9,8,Storm,LOW
+REC-00721,Pothole,3,2,10,8,48.5,Low,Very High,1,6,Moderate Rain,LOW
+REC-00722,Drainage,5,22,3,4,82.1,Medium,High,10,6,Storm,CRITICAL
+REC-00723,Pothole,5,7,4,6,46.5,Medium,Medium,9,6,Storm,HIGH
+REC-00724,Other,5,10,20,3,-39.9,Very High,High,10,4,Storm,CRITICAL
+REC-00725,Garbage Accumulation,2,19,16,5,-32.7,Low,High,2,6,Clear,LOW
+REC-00726,Garbage Accumulation,4,7,19,9,113.2,High,High,5,7,Heavy Rain,HIGH
+REC-00727,Water Leakage,3,11,6,8,113.4,High,Low,3,0,Storm,MEDIUM
+REC-00728,Water Leakage,4,18,15,13,22.8,Low,Low,9,0,Storm,CRITICAL
+REC-00729,Road Damage,1,12,12,14,56.2,Very High,Medium,1,1,Storm,MEDIUM
+REC-00730,Pothole,2,24,0,13,5.0,High,Medium,2,4,Moderate Rain,MEDIUM
+REC-00731,Water Leakage,4,12,1,5,38.9,Medium,Low,4,6,Clear,LOW
+REC-00732,Streetlight Failure,2,18,6,11,78.2,Medium,Low,10,2,Clear,MEDIUM
+REC-00733,Water Leakage,3,19,7,15,43.7,High,Medium,1,8,Heavy Rain,CRITICAL
+REC-00734,Pothole,4,21,20,1,96.6,High,Very High,7,4,Clear,CRITICAL
+REC-00735,Road Damage,5,15,15,6,42.8,Low,Medium,1,4,Storm,MEDIUM
+REC-00736,Streetlight Failure,2,11,2,15,51.5,Low,Medium,7,1,Moderate Rain,LOW
+REC-00737,Water Leakage,2,11,9,2,60.2,Low,Low,8,6,Clear,LOW
+REC-00738,Garbage Accumulation,3,8,3,8,-1.9,High,Low,6,8,Moderate Rain,LOW
+REC-00739,Pothole,5,20,14,13,-24.7,Very High,Low,2,0,Clear,HIGH
+REC-00740,Road Damage,1,26,4,1,107.1,Very High,Low,5,6,Clear,MEDIUM
+REC-00741,Pothole,1,18,1,5,96.0,Very High,Low,10,6,Moderate Rain,HIGH
+REC-00742,Drainage,1,15,12,8,87.2,Low,High,1,7,Heavy Rain,MEDIUM
+REC-00743,Drainage,2,4,3,1,55.2,Low,Medium,10,2,Heavy Rain,LOW
+REC-00744,Drainage,4,6,7,3,87.5,Low,Medium,5,6,Heavy Rain,MEDIUM
+REC-00745,Garbage Accumulation,5,18,4,3,35.1,High,High,6,0,Moderate Rain,MEDIUM
+REC-00746,Other,5,28,1,7,15.0,Medium,Medium,2,5,Moderate Rain,MEDIUM
+REC-00747,Road Damage,4,23,14,10,70.8,High,High,7,5,Moderate Rain,CRITICAL
+REC-00748,Pothole,4,8,0,11,-4.3,Medium,Very High,10,3,Moderate Rain,MEDIUM
+REC-00749,Streetlight Failure,3,26,12,4,24.1,Low,High,1,1,Heavy Rain,LOW
+REC-00750,Garbage Accumulation,4,7,20,10,106.0,High,Low,1,3,Moderate Rain,MEDIUM
+REC-00751,Garbage Accumulation,2,8,8,12,-12.1,Medium,Medium,4,0,Moderate Rain,LOW
+REC-00752,Pothole,2,13,20,13,101.6,High,Medium,5,7,Moderate Rain,HIGH
+REC-00753,Garbage Accumulation,3,22,5,9,116.3,Very High,Low,2,2,Moderate Rain,MEDIUM
+REC-00754,Streetlight Failure,3,11,19,7,116.3,Medium,Low,10,3,Heavy Rain,HIGH
+REC-00755,Other,2,11,7,1,60.7,High,Medium,9,7,Moderate Rain,LOW
+REC-00756,Other,5,3,5,9,22.1,High,Very High,9,7,Moderate Rain,MEDIUM
+REC-00757,Garbage Accumulation,3,17,15,12,112.9,Very High,High,10,6,Clear,CRITICAL
+REC-00758,Streetlight Failure,2,13,6,5,28.0,Very High,Medium,6,4,Clear,LOW
+REC-00759,Water Leakage,1,10,14,9,16.3,Low,Very High,9,5,Storm,MEDIUM
+REC-00760,Garbage Accumulation,4,11,8,7,-36.0,Very High,Medium,5,1,Heavy Rain,MEDIUM
+REC-00761,Pothole,3,27,16,9,47.5,Low,High,4,1,Clear,MEDIUM
+REC-00762,Water Leakage,3,7,10,5,8.4,High,Medium,10,2,Heavy Rain,MEDIUM
+REC-00763,Pothole,3,10,11,13,119.5,Very High,Low,8,8,Moderate Rain,CRITICAL
+REC-00764,Road Damage,2,16,7,9,53.9,Very High,Very High,6,1,Heavy Rain,MEDIUM
+REC-00765,Other,2,14,13,4,30.2,Low,High,3,2,Heavy Rain,LOW
+REC-00766,Other,3,11,7,7,28.1,Very High,High,6,0,Clear,LOW
+REC-00767,Water Leakage,2,11,18,11,87.9,Very High,Very High,4,6,Clear,HIGH
+REC-00768,Pothole,3,19,14,11,103.2,Low,Medium,2,8,Moderate Rain,HIGH
+REC-00769,Pothole,5,16,0,3,-8.2,Very High,High,4,3,Heavy Rain,MEDIUM
+REC-00770,Pothole,3,17,0,3,12.3,Very High,Very High,3,1,Moderate Rain,LOW
+REC-00771,Drainage,4,16,2,7,112.8,Medium,Medium,4,4,Storm,HIGH
+REC-00772,Water Leakage,5,19,9,10,-7.5,Very High,High,4,0,Moderate Rain,MEDIUM
+REC-00773,Streetlight Failure,1,27,12,10,89.2,High,Very High,8,7,Clear,HIGH
+REC-00774,Streetlight Failure,3,23,9,7,58.1,Medium,Very High,4,2,Storm,MEDIUM
+REC-00775,Streetlight Failure,4,22,5,12,51.0,Very High,Low,4,2,Heavy Rain,HIGH
+REC-00776,Road Damage,1,23,6,15,39.0,Low,High,2,1,Heavy Rain,LOW
+REC-00777,Streetlight Failure,4,6,8,4,41.0,Very High,Low,2,7,Storm,MEDIUM
+REC-00778,Water Leakage,4,2,0,5,-21.7,Medium,High,8,7,Storm,MEDIUM
+REC-00779,Pothole,1,18,7,12,112.0,Medium,Very High,5,2,Moderate Rain,MEDIUM
+REC-00780,Water Leakage,3,4,17,12,22.5,Low,Low,5,2,Storm,MEDIUM
+REC-00781,Garbage Accumulation,2,7,1,15,68.0,Medium,Very High,1,8,Clear,LOW
+REC-00782,Pothole,5,1,1,13,20.4,Medium,Medium,6,3,Moderate Rain,LOW
+REC-00783,Pothole,1,14,0,1,13.9,Medium,Low,4,1,Moderate Rain,LOW
+REC-00784,Drainage,1,27,10,6,49.9,Medium,Medium,9,6,Storm,HIGH
+REC-00785,Pothole,2,7,3,6,11.7,Low,Very High,6,0,Storm,LOW
+REC-00786,Road Damage,3,21,19,6,-33.0,Medium,Very High,5,7,Clear,HIGH
+REC-00787,Road Damage,5,26,18,3,0.3,Low,High,7,2,Heavy Rain,HIGH
+REC-00788,Road Damage,3,28,15,2,13.6,Very High,Very High,9,3,Clear,HIGH
+REC-00789,Water Leakage,1,20,3,5,-2.2,Very High,Medium,10,1,Clear,LOW
+REC-00790,Water Leakage,2,13,6,11,-33.9,Very High,High,3,4,Heavy Rain,MEDIUM
+REC-00791,Road Damage,1,17,13,11,90.0,Low,Medium,6,5,Moderate Rain,MEDIUM
+REC-00792,Road Damage,2,26,7,10,99.6,High,Medium,8,0,Clear,MEDIUM
+REC-00793,Other,4,3,6,1,61.5,Medium,Medium,3,1,Moderate Rain,LOW
+REC-00794,Water Leakage,2,17,2,7,76.0,High,Medium,4,3,Storm,MEDIUM
+REC-00795,Water Leakage,5,8,9,5,52.2,Medium,High,8,1,Heavy Rain,HIGH
+REC-00796,Streetlight Failure,4,17,19,12,29.3,Medium,Very High,1,6,Storm,CRITICAL
+REC-00797,Other,1,25,9,10,46.0,Medium,High,7,7,Heavy Rain,MEDIUM
+REC-00798,Drainage,4,3,10,3,74.4,Medium,Medium,4,0,Clear,LOW
+REC-00799,Other,5,24,11,8,24.7,Very High,Very High,6,6,Storm,CRITICAL
+REC-00800,Pothole,4,2,3,7,109.1,Medium,Medium,7,4,Heavy Rain,MEDIUM
+REC-00801,Drainage,4,21,11,12,-30.8,Very High,Very High,4,3,Storm,CRITICAL
+REC-00802,Road Damage,1,23,20,3,1.8,Very High,Medium,5,3,Moderate Rain,MEDIUM
+REC-00803,Pothole,1,25,2,11,73.9,Very High,Very High,10,1,Moderate Rain,HIGH
+REC-00804,Streetlight Failure,3,23,9,9,114.8,Very High,High,7,1,Clear,HIGH
+REC-00805,Road Damage,5,25,11,14,-17.2,Medium,Very High,5,0,Moderate Rain,HIGH
+REC-00806,Pothole,4,17,13,11,6.1,Very High,Medium,3,5,Moderate Rain,HIGH
+REC-00807,Road Damage,2,7,15,3,40.4,Low,Very High,10,3,Moderate Rain,LOW
+REC-00808,Other,2,9,13,8,60.3,Low,Medium,2,4,Clear,LOW
+REC-00809,Streetlight Failure,1,9,2,6,-35.3,Medium,Very High,8,1,Clear,LOW
+REC-00810,Pothole,5,26,1,2,-6.2,Low,Very High,10,8,Heavy Rain,HIGH
+REC-00811,Streetlight Failure,4,25,10,10,28.7,High,High,6,3,Heavy Rain,HIGH
+REC-00812,Pothole,3,28,10,13,-24.0,Very High,Very High,3,0,Clear,MEDIUM
+REC-00813,Other,5,9,7,6,32.3,Very High,Very High,4,0,Heavy Rain,MEDIUM
+REC-00814,Pothole,3,22,14,4,57.1,Very High,Low,6,6,Storm,CRITICAL
+REC-00815,Road Damage,1,24,12,5,57.1,Medium,Low,3,7,Clear,LOW
+REC-00816,Drainage,4,6,14,2,37.1,Medium,Medium,4,2,Clear,LOW
+REC-00817,Pothole,4,23,0,3,108.6,High,Very High,5,3,Heavy Rain,HIGH
+REC-00818,Road Damage,1,22,4,15,45.5,Very High,Low,6,3,Clear,MEDIUM
+REC-00819,Road Damage,3,13,12,11,62.7,Very High,Medium,4,4,Clear,HIGH
+REC-00820,Garbage Accumulation,5,7,3,10,18.8,High,Very High,10,0,Heavy Rain,MEDIUM
+REC-00821,Pothole,5,18,6,14,22.1,Very High,High,6,2,Moderate Rain,CRITICAL
+REC-00822,Other,4,11,4,14,110.9,Medium,Very High,8,2,Heavy Rain,HIGH
+REC-00823,Water Leakage,1,20,10,5,40.4,Low,High,10,7,Moderate Rain,MEDIUM
+REC-00824,Streetlight Failure,1,26,10,3,92.5,Medium,Medium,1,2,Storm,LOW
+REC-00825,Road Damage,4,10,5,1,47.7,High,Very High,8,5,Storm,HIGH
+REC-00826,Garbage Accumulation,3,23,6,12,97.0,Very High,Low,3,5,Clear,HIGH
+REC-00827,Other,3,15,20,3,52.3,Very High,Very High,5,2,Moderate Rain,HIGH
+REC-00828,Road Damage,1,12,18,2,68.5,Medium,Very High,7,2,Clear,LOW
+REC-00829,Pothole,3,16,5,1,-21.2,High,Very High,3,6,Moderate Rain,MEDIUM
+REC-00830,Streetlight Failure,3,23,19,3,64.4,Very High,Low,8,6,Heavy Rain,CRITICAL
+REC-00831,Road Damage,4,12,0,2,-21.3,Low,Very High,9,3,Clear,LOW
+REC-00832,Streetlight Failure,3,23,3,13,54.9,Very High,Very High,7,4,Moderate Rain,HIGH
+REC-00833,Pothole,3,3,17,3,24.9,Low,Very High,9,8,Storm,HIGH
+REC-00834,Drainage,1,25,6,11,103.6,Medium,Medium,1,8,Storm,HIGH
+REC-00835,Other,3,4,1,3,52.0,Medium,Low,9,4,Clear,LOW
+REC-00836,Garbage Accumulation,3,18,5,7,116.3,Low,Medium,5,0,Heavy Rain,MEDIUM
+REC-00837,Road Damage,5,15,4,10,38.5,High,High,10,8,Moderate Rain,CRITICAL
+REC-00838,Pothole,2,2,6,3,8.0,Medium,Medium,10,8,Moderate Rain,LOW
+REC-00839,Drainage,3,9,4,12,59.6,Low,High,5,6,Moderate Rain,MEDIUM
+REC-00840,Garbage Accumulation,4,23,4,9,-7.4,High,Medium,6,8,Moderate Rain,HIGH
+REC-00841,Streetlight Failure,2,11,13,7,-35.9,Medium,Low,5,1,Clear,LOW
+REC-00842,Garbage Accumulation,1,12,10,13,3.7,Medium,High,1,1,Storm,LOW
+REC-00843,Water Leakage,4,4,3,3,44.2,High,Very High,2,8,Heavy Rain,MEDIUM
+REC-00844,Drainage,3,20,3,15,-32.3,High,Very High,3,5,Storm,HIGH
+REC-00845,Streetlight Failure,5,5,8,1,69.9,Medium,Medium,3,6,Heavy Rain,MEDIUM
+REC-00846,Garbage Accumulation,2,22,19,7,73.1,Medium,Very High,6,7,Heavy Rain,HIGH
+REC-00847,Garbage Accumulation,4,17,7,5,61.7,Low,High,7,5,Clear,MEDIUM
+REC-00848,Water Leakage,1,6,18,1,-26.5,High,Very High,1,6,Moderate Rain,LOW
+REC-00849,Streetlight Failure,4,17,17,12,-20.0,Low,Medium,1,6,Heavy Rain,HIGH
+REC-00850,Other,5,22,19,1,57.2,Medium,Medium,3,1,Heavy Rain,HIGH
+REC-00851,Other,2,17,11,1,27.6,Very High,Medium,6,1,Heavy Rain,LOW
+REC-00852,Drainage,1,10,9,8,7.0,Medium,Low,10,6,Moderate Rain,LOW
+REC-00853,Garbage Accumulation,5,27,1,15,34.1,Very High,Low,6,0,Storm,HIGH
+REC-00854,Pothole,3,24,5,7,16.7,Low,Very High,8,3,Clear,MEDIUM
+REC-00855,Drainage,5,5,13,2,106.1,Low,Medium,5,3,Storm,HIGH
+REC-00856,Streetlight Failure,2,18,8,2,118.3,Very High,Medium,3,5,Storm,MEDIUM
+REC-00857,Pothole,3,28,6,2,-9.7,Low,Medium,7,6,Heavy Rain,MEDIUM
+REC-00858,Water Leakage,4,22,8,2,27.4,Very High,Medium,6,6,Storm,CRITICAL
+REC-00859,Water Leakage,1,4,0,3,-15.1,Low,Medium,1,5,Storm,LOW
+REC-00860,Streetlight Failure,4,10,9,8,-26.8,Very High,Medium,10,2,Moderate Rain,MEDIUM
+REC-00861,Water Leakage,3,25,3,14,2.2,Medium,Very High,4,7,Clear,MEDIUM
+REC-00862,Water Leakage,2,28,18,11,61.5,Medium,Low,3,6,Clear,MEDIUM
+REC-00863,Garbage Accumulation,2,5,13,1,58.6,Low,Low,7,6,Heavy Rain,LOW
+REC-00864,Water Leakage,3,14,15,1,41.6,Low,High,2,4,Heavy Rain,MEDIUM
+REC-00865,Garbage Accumulation,3,23,13,4,11.2,Low,Medium,1,0,Clear,LOW
+REC-00866,Garbage Accumulation,4,9,19,2,28.9,High,Very High,6,5,Heavy Rain,HIGH
+REC-00867,Pothole,1,22,0,11,48.3,Medium,High,6,5,Heavy Rain,MEDIUM
+REC-00868,Drainage,4,3,3,3,60.7,Low,Low,10,3,Moderate Rain,LOW
+REC-00869,Road Damage,4,4,2,9,59.0,High,Very High,4,8,Moderate Rain,HIGH
+REC-00870,Drainage,3,25,17,6,103.2,Very High,Low,7,1,Storm,CRITICAL
+REC-00871,Streetlight Failure,5,17,0,3,55.9,Medium,High,1,0,Moderate Rain,LOW
+REC-00872,Road Damage,5,28,16,2,-13.5,Very High,Very High,7,4,Moderate Rain,CRITICAL
+REC-00873,Water Leakage,1,6,18,4,54.7,Low,Very High,9,8,Heavy Rain,HIGH
+REC-00874,Road Damage,3,18,3,3,-4.2,Medium,High,1,2,Heavy Rain,LOW
+REC-00875,Water Leakage,3,28,1,11,116.8,Medium,Low,1,5,Heavy Rain,HIGH
+REC-00876,Drainage,3,24,4,7,103.7,High,High,1,0,Heavy Rain,HIGH
+REC-00877,Water Leakage,3,6,8,1,46.0,Low,Very High,5,8,Moderate Rain,LOW
+REC-00878,Garbage Accumulation,2,19,20,13,97.3,Very High,Medium,8,3,Storm,CRITICAL
+REC-00879,Garbage Accumulation,2,16,2,8,-11.0,Medium,Medium,4,7,Moderate Rain,LOW
+REC-00880,Water Leakage,2,27,12,11,57.3,Low,Medium,2,6,Moderate Rain,MEDIUM
+REC-00881,Streetlight Failure,4,4,16,3,76.3,Low,Low,7,6,Clear,MEDIUM
+REC-00882,Other,1,5,7,13,-26.6,Medium,Low,1,1,Heavy Rain,LOW
+REC-00883,Other,1,7,4,8,81.5,Very High,Medium,5,5,Storm,LOW
+REC-00884,Road Damage,3,21,17,2,-36.6,Low,Low,9,4,Clear,MEDIUM
+REC-00885,Drainage,4,5,0,15,-4.1,Medium,Very High,7,2,Heavy Rain,MEDIUM
+REC-00886,Road Damage,4,22,3,8,-12.9,Low,Medium,2,4,Heavy Rain,MEDIUM
+REC-00887,Pothole,5,11,3,6,107.7,Low,Low,10,2,Moderate Rain,MEDIUM
+REC-00888,Water Leakage,4,5,9,10,90.8,High,Low,5,7,Heavy Rain,HIGH
+REC-00889,Garbage Accumulation,1,26,0,14,109.3,Medium,Medium,6,2,Storm,MEDIUM
+REC-00890,Streetlight Failure,1,4,18,7,113.5,High,Medium,2,5,Moderate Rain,LOW
+REC-00891,Water Leakage,4,12,10,8,27.8,Very High,High,3,3,Storm,HIGH
+REC-00892,Drainage,4,18,17,14,-3.2,Low,Very High,9,3,Clear,HIGH
+REC-00893,Water Leakage,3,1,6,14,-37.3,Very High,Medium,2,0,Heavy Rain,LOW
+REC-00894,Other,2,10,14,3,93.6,Very High,Medium,4,3,Clear,LOW
+REC-00895,Road Damage,2,4,4,7,77.3,Very High,High,1,1,Clear,LOW
+REC-00896,Water Leakage,1,5,11,3,-27.4,Low,Low,10,6,Moderate Rain,LOW
+REC-00897,Other,2,16,4,12,44.4,High,Very High,7,5,Storm,HIGH
+REC-00898,Garbage Accumulation,1,5,1,15,62.8,Medium,Medium,1,6,Storm,LOW
+REC-00899,Road Damage,4,18,8,15,51.5,High,Medium,7,2,Heavy Rain,CRITICAL
+REC-00900,Water Leakage,2,13,19,1,-5.0,Medium,Low,8,7,Heavy Rain,MEDIUM
+REC-00901,Road Damage,4,27,12,3,-31.3,High,Very High,4,4,Clear,HIGH
+REC-00902,Other,3,1,7,5,-14.0,Low,Low,4,0,Heavy Rain,LOW
+REC-00903,Water Leakage,5,7,20,15,-34.8,High,Low,10,0,Storm,CRITICAL
+REC-00904,Garbage Accumulation,1,12,9,7,40.0,High,Very High,6,2,Clear,LOW
+REC-00905,Garbage Accumulation,4,24,16,2,40.3,Medium,Low,10,6,Storm,HIGH
+REC-00906,Garbage Accumulation,2,5,14,2,101.6,Low,Medium,4,2,Moderate Rain,LOW
+REC-00907,Drainage,5,24,19,11,43.7,High,Very High,3,5,Heavy Rain,CRITICAL
+REC-00908,Streetlight Failure,1,23,12,4,-6.6,Low,Medium,10,7,Clear,MEDIUM
+REC-00909,Other,1,5,9,9,98.8,Low,Very High,2,7,Heavy Rain,LOW
+REC-00910,Pothole,3,19,11,6,-25.7,Medium,Very High,5,7,Heavy Rain,HIGH
+REC-00911,Other,4,21,4,2,115.5,Very High,Low,6,4,Storm,HIGH
+REC-00912,Road Damage,2,15,11,9,95.2,High,High,2,6,Storm,HIGH
+REC-00913,Garbage Accumulation,1,20,20,1,78.6,Medium,Low,3,1,Heavy Rain,LOW
+REC-00914,Other,1,8,12,14,34.0,Low,High,8,7,Storm,MEDIUM
+REC-00915,Pothole,1,6,3,15,113.5,Very High,Very High,4,6,Heavy Rain,MEDIUM
+REC-00916,Drainage,4,7,15,2,4.5,Low,Medium,8,2,Moderate Rain,LOW
+REC-00917,Garbage Accumulation,5,2,19,13,20.8,High,Very High,8,3,Clear,HIGH
+REC-00918,Other,4,9,8,11,-11.8,Medium,Low,5,6,Clear,MEDIUM
+REC-00919,Garbage Accumulation,4,28,13,9,-5.7,High,Medium,1,1,Storm,MEDIUM
+REC-00920,Water Leakage,2,12,13,8,36.1,Medium,Very High,6,6,Clear,MEDIUM
+REC-00921,Drainage,5,7,2,12,66.9,Medium,High,6,0,Moderate Rain,MEDIUM
+REC-00922,Streetlight Failure,3,4,13,5,43.3,Low,Very High,3,7,Clear,LOW
+REC-00923,Pothole,2,24,6,7,71.4,Medium,Very High,4,5,Moderate Rain,MEDIUM
+REC-00924,Drainage,1,12,11,1,8.3,High,Low,8,7,Storm,MEDIUM
+REC-00925,Streetlight Failure,3,12,17,7,43.7,High,Low,3,7,Storm,MEDIUM
+REC-00926,Water Leakage,5,14,12,5,95.2,Very High,High,10,1,Clear,HIGH
+REC-00927,Other,1,3,20,1,58.6,Very High,Low,8,8,Clear,LOW
+REC-00928,Other,1,22,9,14,27.3,Medium,Very High,9,6,Clear,MEDIUM
+REC-00929,Water Leakage,4,4,11,13,106.2,Very High,Very High,1,5,Moderate Rain,MEDIUM
+REC-00930,Road Damage,3,10,13,11,-1.4,Very High,Low,1,0,Moderate Rain,MEDIUM
+REC-00931,Other,3,27,16,14,78.6,High,High,3,6,Moderate Rain,HIGH
+REC-00932,Drainage,4,27,1,13,109.1,Very High,Medium,7,2,Storm,CRITICAL
+REC-00933,Garbage Accumulation,5,6,13,4,-24.1,Medium,Low,10,6,Heavy Rain,MEDIUM
+REC-00934,Garbage Accumulation,2,3,2,1,30.0,Medium,Low,10,8,Clear,LOW
+REC-00935,Drainage,4,1,4,8,61.5,High,Medium,4,3,Heavy Rain,MEDIUM
+REC-00936,Road Damage,4,25,8,11,-31.7,Low,Medium,1,1,Clear,MEDIUM
+REC-00937,Streetlight Failure,5,4,3,3,5.2,Medium,Low,2,7,Heavy Rain,LOW
+REC-00938,Pothole,4,26,0,7,-28.2,Low,Medium,7,6,Heavy Rain,MEDIUM
+REC-00939,Road Damage,4,26,5,3,7.8,Medium,Low,2,5,Heavy Rain,LOW
+REC-00940,Drainage,1,6,16,12,0.7,Low,Medium,10,0,Clear,LOW
+REC-00941,Drainage,5,25,4,4,98.7,Low,Medium,1,5,Moderate Rain,MEDIUM
+REC-00942,Water Leakage,3,9,15,4,112.5,High,High,8,7,Storm,CRITICAL
+REC-00943,Drainage,4,7,8,3,-8.3,High,Very High,2,4,Moderate Rain,LOW
+REC-00944,Streetlight Failure,4,15,13,10,79.5,High,Low,10,6,Storm,CRITICAL
+REC-00945,Water Leakage,5,12,11,15,61.2,Low,Very High,3,0,Heavy Rain,HIGH
+REC-00946,Other,5,12,12,1,-21.7,High,Very High,3,5,Moderate Rain,MEDIUM
+REC-00947,Pothole,2,22,11,6,-16.8,High,Low,1,5,Clear,MEDIUM
+REC-00948,Drainage,3,8,17,2,21.7,Medium,Medium,2,8,Heavy Rain,MEDIUM
+REC-00949,Road Damage,5,26,2,10,102.8,Very High,Very High,6,5,Moderate Rain,CRITICAL
+REC-00950,Streetlight Failure,1,9,13,2,-20.1,Medium,High,10,6,Moderate Rain,LOW
+REC-00951,Drainage,1,10,0,11,85.3,Low,Very High,5,2,Storm,MEDIUM
+REC-00952,Drainage,1,11,20,1,-28.9,Low,Very High,5,4,Heavy Rain,MEDIUM
+REC-00953,Other,3,13,2,9,83.9,Very High,Low,7,4,Storm,MEDIUM
+REC-00954,Pothole,3,20,3,1,-4.2,Low,Medium,2,5,Storm,LOW
+REC-00955,Water Leakage,2,3,6,12,104.4,High,Low,1,4,Clear,LOW
+REC-00956,Pothole,3,11,19,13,90.0,High,Medium,3,7,Clear,CRITICAL
+REC-00957,Water Leakage,3,28,4,13,53.5,Very High,Very High,2,8,Moderate Rain,HIGH
+REC-00958,Garbage Accumulation,3,25,15,4,-25.3,High,Low,6,8,Moderate Rain,MEDIUM
+REC-00959,Road Damage,2,23,2,2,115.5,Low,Medium,1,3,Storm,LOW
+REC-00960,Pothole,3,7,18,13,44.4,High,High,8,2,Clear,HIGH
+REC-00961,Water Leakage,2,12,12,8,98.9,Medium,Very High,4,1,Heavy Rain,MEDIUM
+REC-00962,Other,5,21,3,3,33.8,Low,Low,4,0,Storm,MEDIUM
+REC-00963,Water Leakage,3,1,15,11,44.9,High,High,2,8,Clear,MEDIUM
+REC-00964,Streetlight Failure,5,14,16,6,-31.5,High,High,2,0,Storm,MEDIUM
+REC-00965,Road Damage,4,7,9,4,24.4,High,Very High,9,6,Clear,HIGH
+REC-00966,Pothole,2,4,1,15,-34.3,High,Medium,2,8,Clear,LOW
+REC-00967,Garbage Accumulation,2,20,12,7,22.9,Medium,High,8,3,Moderate Rain,MEDIUM
+REC-00968,Garbage Accumulation,5,10,0,2,-10.4,Very High,High,4,2,Heavy Rain,LOW
+REC-00969,Road Damage,1,6,5,6,104.0,Medium,Low,8,6,Heavy Rain,LOW
+REC-00970,Pothole,2,22,0,10,16.3,Very High,Low,8,3,Storm,HIGH
+REC-00971,Pothole,1,27,0,10,68.8,High,Medium,9,8,Moderate Rain,HIGH
+REC-00972,Pothole,3,26,10,8,38.5,High,High,8,4,Heavy Rain,HIGH
+REC-00973,Streetlight Failure,1,27,11,5,73.6,Very High,Low,5,8,Clear,MEDIUM
+REC-00974,Water Leakage,2,12,15,1,-0.9,Very High,High,4,1,Moderate Rain,LOW
+REC-00975,Streetlight Failure,1,9,20,11,47.2,Very High,Medium,5,5,Heavy Rain,MEDIUM
+REC-00976,Garbage Accumulation,3,7,1,10,43.2,High,Low,7,7,Heavy Rain,MEDIUM
+REC-00977,Garbage Accumulation,1,1,15,15,69.7,Very High,Medium,9,4,Moderate Rain,MEDIUM
+REC-00978,Other,3,1,14,1,-5.2,Low,Low,8,4,Clear,LOW
+REC-00979,Streetlight Failure,3,22,0,1,0.2,High,High,9,8,Moderate Rain,MEDIUM
+REC-00980,Water Leakage,2,14,18,15,-27.1,Medium,Low,8,5,Moderate Rain,MEDIUM
+REC-00981,Other,4,14,12,15,-24.3,High,High,10,4,Moderate Rain,HIGH
+REC-00982,Garbage Accumulation,5,5,6,5,-18.3,Medium,High,5,1,Heavy Rain,LOW
+REC-00983,Drainage,4,18,5,7,85.2,Very High,Low,3,8,Storm,CRITICAL
+REC-00984,Road Damage,3,15,11,7,34.6,Very High,Very High,1,8,Clear,HIGH
+REC-00985,Other,4,3,4,10,105.1,Medium,High,3,8,Heavy Rain,MEDIUM
+REC-00986,Water Leakage,4,22,0,8,89.2,Very High,Low,2,0,Heavy Rain,HIGH
+REC-00987,Other,1,11,19,2,91.5,Very High,High,1,1,Clear,LOW
+REC-00988,Drainage,4,5,7,15,68.1,Medium,High,5,0,Storm,MEDIUM
+REC-00989,Drainage,2,4,2,1,-15.5,Low,Low,4,3,Clear,LOW
+REC-00990,Streetlight Failure,4,2,3,5,24.7,Medium,Medium,9,4,Storm,LOW
+REC-00991,Other,5,4,13,3,61.8,Medium,Medium,4,2,Moderate Rain,LOW
+REC-00992,Road Damage,1,19,15,6,66.8,Very High,Very High,2,7,Storm,HIGH
+REC-00993,Other,4,5,0,5,33.1,Very High,Low,10,4,Clear,LOW
+REC-00994,Drainage,4,2,11,3,34.9,Very High,High,1,2,Heavy Rain,LOW
+REC-00995,Drainage,5,7,11,15,73.0,Very High,Low,3,2,Heavy Rain,HIGH
+REC-00996,Streetlight Failure,2,9,9,15,23.0,Very High,Very High,8,2,Heavy Rain,MEDIUM
+REC-00997,Water Leakage,3,19,18,6,53.5,Very High,Low,1,0,Moderate Rain,MEDIUM
+REC-00998,Streetlight Failure,4,11,7,13,89.4,Medium,Low,3,6,Storm,HIGH
+REC-00999,Pothole,1,20,8,2,-34.0,Low,Very High,6,0,Moderate Rain,LOW
+REC-01000,Streetlight Failure,2,21,18,9,-8.0,High,Very High,8,4,Moderate Rain,HIGH
+REC-01001,Water Leakage,2,14,16,13,86.4,Low,Low,2,3,Clear,MEDIUM
+REC-01002,Garbage Accumulation,4,19,17,14,-28.5,Medium,Very High,4,3,Storm,HIGH
+REC-01003,Drainage,3,12,19,15,49.4,Medium,Low,8,6,Storm,CRITICAL
+REC-01004,Water Leakage,5,10,3,2,39.8,Low,High,1,3,Heavy Rain,MEDIUM
+REC-01005,Other,3,13,11,2,99.6,Medium,High,2,8,Moderate Rain,MEDIUM
+REC-01006,Drainage,3,13,19,1,47.4,Low,Very High,5,0,Clear,LOW
+REC-01007,Garbage Accumulation,4,9,6,6,102.1,Low,Medium,4,8,Heavy Rain,MEDIUM
+REC-01008,Pothole,2,16,2,13,111.7,Low,High,2,6,Clear,LOW
+REC-01009,Drainage,4,5,8,12,-33.3,Low,Very High,9,3,Heavy Rain,HIGH
+REC-01010,Other,2,1,1,1,83.8,Medium,Very High,1,8,Storm,LOW
+REC-01011,Pothole,4,25,12,12,-20.0,Very High,Medium,2,7,Clear,CRITICAL
+REC-01012,Garbage Accumulation,3,7,10,7,106.9,Medium,Medium,2,0,Moderate Rain,LOW
+REC-01013,Streetlight Failure,5,19,1,13,-37.6,Medium,Low,2,0,Moderate Rain,LOW
+REC-01014,Garbage Accumulation,3,20,20,15,-0.9,High,Medium,10,6,Storm,CRITICAL
+REC-01015,Road Damage,1,22,2,2,0.0,Medium,Very High,6,3,Storm,LOW
+REC-01016,Other,5,10,20,4,44.3,High,High,9,8,Clear,HIGH
+REC-01017,Pothole,3,14,19,8,4.8,Medium,Medium,9,3,Heavy Rain,MEDIUM
+REC-01018,Garbage Accumulation,2,2,7,12,30.4,Very High,Low,1,7,Clear,LOW
+REC-01019,Garbage Accumulation,3,19,12,5,92.3,Low,Low,5,6,Storm,HIGH
+REC-01020,Streetlight Failure,1,8,6,7,-10.5,Very High,Low,5,0,Heavy Rain,LOW
+REC-01021,Pothole,5,25,10,15,92.5,High,Medium,1,5,Storm,CRITICAL
+REC-01022,Road Damage,1,26,3,9,22.1,High,Very High,7,8,Heavy Rain,HIGH
+REC-01023,Water Leakage,4,15,7,3,105.2,High,High,2,3,Heavy Rain,HIGH
+REC-01024,Drainage,3,12,8,11,0.1,Low,Low,5,5,Heavy Rain,MEDIUM
+REC-01025,Other,2,15,14,1,30.4,Very High,Low,6,7,Moderate Rain,MEDIUM
+REC-01026,Pothole,3,20,17,6,112.5,Very High,Medium,5,4,Heavy Rain,CRITICAL
+REC-01027,Other,4,5,7,11,-12.1,Low,Medium,2,0,Moderate Rain,LOW
+REC-01028,Drainage,3,2,17,12,-3.5,High,High,1,5,Clear,LOW
+REC-01029,Drainage,2,12,3,2,41.1,Low,Low,4,3,Heavy Rain,LOW
+REC-01030,Road Damage,4,3,20,7,100.1,Medium,Low,6,5,Heavy Rain,MEDIUM
+REC-01031,Streetlight Failure,3,16,9,10,-35.0,High,Low,5,2,Clear,LOW
+REC-01032,Garbage Accumulation,5,23,16,13,53.0,High,Medium,7,0,Moderate Rain,CRITICAL
+REC-01033,Streetlight Failure,1,3,7,10,40.6,Very High,Low,9,0,Storm,LOW
+REC-01034,Garbage Accumulation,3,7,18,5,105.8,High,Medium,6,3,Storm,MEDIUM
+REC-01035,Garbage Accumulation,1,23,7,8,77.2,Very High,High,2,5,Clear,MEDIUM
+REC-01036,Drainage,2,15,13,4,51.1,Medium,Medium,7,2,Heavy Rain,MEDIUM
+REC-01037,Other,3,11,10,2,-27.0,Very High,Medium,10,7,Moderate Rain,MEDIUM
+REC-01038,Pothole,2,4,13,5,82.5,Very High,Low,3,0,Storm,LOW
+REC-01039,Pothole,2,3,4,9,98.7,Very High,Very High,6,2,Storm,MEDIUM
+REC-01040,Garbage Accumulation,1,11,10,10,57.4,Low,Low,2,5,Storm,LOW
+REC-01041,Streetlight Failure,4,24,13,5,81.2,Medium,Medium,10,8,Clear,CRITICAL
+REC-01042,Drainage,3,22,20,8,20.7,Very High,Medium,9,4,Clear,HIGH
+REC-01043,Water Leakage,3,16,10,1,50.3,Very High,High,6,6,Heavy Rain,HIGH
+REC-01044,Pothole,2,14,16,5,52.0,High,Low,6,4,Moderate Rain,MEDIUM
+REC-01045,Pothole,3,9,15,8,-4.2,Medium,High,5,1,Moderate Rain,LOW
+REC-01046,Water Leakage,5,27,16,13,-13.0,Low,Medium,1,7,Clear,HIGH
+REC-01047,Garbage Accumulation,2,10,18,7,77.1,Medium,Very High,5,1,Clear,LOW
+REC-01048,Garbage Accumulation,1,28,4,5,77.1,Low,High,2,3,Clear,LOW
+REC-01049,Garbage Accumulation,2,17,10,5,32.6,Low,High,1,6,Clear,LOW
+REC-01050,Garbage Accumulation,2,27,17,11,94.0,Low,Low,4,2,Storm,MEDIUM
+REC-01051,Other,2,22,6,5,35.2,Very High,Medium,8,4,Moderate Rain,MEDIUM
+REC-01052,Drainage,2,1,13,2,38.5,Medium,Medium,1,6,Heavy Rain,LOW
+REC-01053,Drainage,4,21,18,4,62.0,Very High,Medium,5,3,Heavy Rain,CRITICAL
+REC-01054,Road Damage,4,20,11,9,37.0,Low,Medium,2,4,Storm,MEDIUM
+REC-01055,Streetlight Failure,3,8,13,2,-11.8,High,Low,6,6,Moderate Rain,LOW
+REC-01056,Other,4,20,13,11,-2.4,High,High,9,3,Storm,CRITICAL
+REC-01057,Pothole,5,25,10,5,68.0,Very High,Very High,8,6,Storm,CRITICAL
+REC-01058,Streetlight Failure,2,11,20,14,-32.7,Very High,Very High,4,2,Moderate Rain,MEDIUM
+REC-01059,Other,1,20,19,6,-19.3,Low,Low,7,1,Heavy Rain,MEDIUM
+REC-01060,Drainage,1,21,1,9,-6.3,Medium,Medium,9,6,Moderate Rain,LOW
+REC-01061,Garbage Accumulation,2,12,10,7,-5.5,Medium,Low,1,0,Clear,LOW
+REC-01062,Pothole,2,10,9,1,-3.2,Medium,Low,5,1,Storm,LOW
+REC-01063,Road Damage,4,5,8,14,-26.4,Low,Very High,1,0,Moderate Rain,LOW
+REC-01064,Streetlight Failure,2,27,19,14,10.0,High,Very High,9,0,Heavy Rain,HIGH
+REC-01065,Garbage Accumulation,4,7,3,5,115.1,Very High,Very High,5,6,Clear,MEDIUM
+REC-01066,Garbage Accumulation,4,10,17,9,-0.9,Low,Very High,7,5,Clear,MEDIUM
+REC-01067,Streetlight Failure,2,19,0,7,83.4,Very High,High,8,1,Heavy Rain,MEDIUM
+REC-01068,Pothole,1,18,5,4,98.4,Very High,Medium,2,2,Storm,MEDIUM
+REC-01069,Drainage,4,17,18,13,-2.8,Very High,High,7,4,Heavy Rain,CRITICAL
+REC-01070,Road Damage,5,20,13,14,-39.1,Medium,Very High,9,7,Heavy Rain,CRITICAL
+REC-01071,Road Damage,2,11,14,12,37.3,Low,Low,7,1,Storm,MEDIUM
+REC-01072,Drainage,1,6,6,8,99.2,Low,Low,7,7,Moderate Rain,LOW
+REC-01073,Road Damage,5,16,4,12,99.9,Very High,Very High,1,4,Clear,CRITICAL
+REC-01074,Road Damage,3,17,10,10,102.3,Medium,Medium,5,8,Moderate Rain,HIGH
+REC-01075,Other,5,23,11,9,56.7,Very High,Very High,4,5,Moderate Rain,CRITICAL
+REC-01076,Streetlight Failure,1,11,13,3,-15.9,Low,Low,5,3,Moderate Rain,LOW
+REC-01077,Road Damage,1,18,14,6,-24.8,Very High,Medium,2,5,Moderate Rain,MEDIUM
+REC-01078,Water Leakage,3,10,13,10,76.7,High,Very High,5,8,Moderate Rain,HIGH
+REC-01079,Pothole,5,5,3,12,-5.4,Medium,High,10,1,Moderate Rain,MEDIUM
+REC-01080,Other,4,11,18,13,96.5,High,Very High,4,2,Clear,HIGH
+REC-01081,Other,2,7,2,15,88.5,Medium,Medium,3,7,Clear,LOW
+REC-01082,Pothole,2,17,14,7,66.4,High,High,9,1,Moderate Rain,HIGH
+REC-01083,Drainage,4,13,12,12,35.9,High,High,9,1,Moderate Rain,HIGH
+REC-01084,Other,3,23,4,14,30.0,Very High,Very High,5,1,Storm,HIGH
+REC-01085,Road Damage,3,6,0,14,18.5,Very High,High,7,3,Moderate Rain,MEDIUM
+REC-01086,Road Damage,1,7,14,6,44.2,Low,High,6,1,Heavy Rain,LOW
+REC-01087,Garbage Accumulation,5,1,19,5,-34.6,High,Very High,7,0,Heavy Rain,MEDIUM
+REC-01088,Drainage,1,28,15,10,61.2,Very High,Medium,8,8,Clear,HIGH
+REC-01089,Pothole,3,1,19,15,74.1,Medium,Medium,2,6,Clear,MEDIUM
+REC-01090,Pothole,3,4,17,5,117.3,Medium,Low,6,5,Moderate Rain,MEDIUM
+REC-01091,Drainage,3,17,0,11,24.5,Low,Low,4,8,Moderate Rain,MEDIUM
+REC-01092,Streetlight Failure,1,9,19,4,70.2,Very High,Medium,1,4,Heavy Rain,LOW
+REC-01093,Drainage,3,4,10,8,50.9,Low,Very High,2,1,Clear,LOW
+REC-01094,Garbage Accumulation,5,21,0,13,-12.9,Low,Medium,6,7,Clear,HIGH
+REC-01095,Road Damage,2,10,20,15,98.3,Medium,High,1,6,Heavy Rain,HIGH
+REC-01096,Garbage Accumulation,4,8,6,5,101.4,Medium,High,5,7,Heavy Rain,MEDIUM
+REC-01097,Pothole,4,12,18,6,15.8,Very High,Medium,1,6,Moderate Rain,HIGH
+REC-01098,Road Damage,4,12,20,13,69.1,High,Medium,6,8,Heavy Rain,CRITICAL
+REC-01099,Pothole,5,25,6,5,-5.1,High,Low,2,8,Moderate Rain,HIGH
+REC-01100,Garbage Accumulation,3,19,12,11,54.1,Low,High,2,5,Clear,MEDIUM
+REC-01101,Water Leakage,4,16,10,6,63.7,Low,Medium,6,4,Moderate Rain,MEDIUM
+REC-01102,Pothole,4,26,19,8,55.0,Very High,Very High,8,3,Heavy Rain,CRITICAL
+REC-01103,Road Damage,3,20,10,8,68.6,High,Low,4,8,Clear,HIGH
+REC-01104,Drainage,4,19,0,3,42.0,High,Medium,10,2,Moderate Rain,MEDIUM
+REC-01105,Road Damage,3,26,1,2,9.5,Medium,High,8,6,Moderate Rain,LOW
+REC-01106,Water Leakage,2,10,9,2,-10.5,Medium,Very High,2,3,Moderate Rain,LOW
+REC-01107,Road Damage,5,28,11,1,36.4,High,Low,8,8,Storm,CRITICAL
+REC-01108,Road Damage,4,27,14,12,-1.2,Low,Very High,3,5,Moderate Rain,HIGH
+REC-01109,Streetlight Failure,3,10,13,10,23.0,Low,High,8,0,Moderate Rain,LOW
+REC-01110,Water Leakage,3,12,10,9,91.7,Very High,Low,4,2,Storm,HIGH
+REC-01111,Water Leakage,1,7,9,7,-25.1,Very High,Medium,7,2,Heavy Rain,LOW
+REC-01112,Streetlight Failure,1,9,13,3,-13.8,Low,Very High,2,5,Clear,LOW
+REC-01113,Road Damage,4,26,0,3,11.0,Very High,Very High,1,7,Storm,HIGH
+REC-01114,Streetlight Failure,3,24,20,2,56.6,Very High,High,8,5,Heavy Rain,CRITICAL
+REC-01115,Pothole,2,14,17,13,21.4,Low,Medium,1,5,Heavy Rain,MEDIUM
+REC-01116,Road Damage,4,14,1,8,5.1,Low,Very High,8,5,Clear,MEDIUM
+REC-01117,Drainage,3,9,13,6,68.0,Low,High,3,4,Heavy Rain,MEDIUM
+REC-01118,Garbage Accumulation,1,20,3,6,77.1,Very High,Medium,3,1,Clear,LOW
+REC-01119,Water Leakage,2,21,15,7,102.8,High,Very High,10,3,Storm,CRITICAL
+REC-01120,Pothole,2,20,20,13,101.1,Very High,Low,6,4,Storm,CRITICAL
+REC-01121,Streetlight Failure,1,6,8,12,64.5,Low,Very High,2,3,Heavy Rain,LOW
+REC-01122,Drainage,2,23,1,6,51.7,Medium,Very High,5,2,Heavy Rain,MEDIUM
+REC-01123,Drainage,1,20,12,15,-11.0,High,High,1,6,Moderate Rain,MEDIUM
+REC-01124,Water Leakage,3,9,14,10,86.4,High,Low,4,3,Clear,MEDIUM
+REC-01125,Road Damage,3,8,2,10,6.1,Very High,Very High,10,5,Storm,HIGH
+REC-01126,Garbage Accumulation,3,11,11,14,31.1,Very High,Very High,4,8,Moderate Rain,HIGH
+REC-01127,Road Damage,4,9,12,1,65.7,Low,Very High,9,5,Clear,MEDIUM
+REC-01128,Garbage Accumulation,3,10,10,8,67.9,Low,Medium,10,2,Heavy Rain,MEDIUM
+REC-01129,Drainage,4,14,0,13,115.7,Very High,Medium,7,8,Moderate Rain,HIGH
+REC-01130,Pothole,1,13,6,4,118.7,High,Medium,3,6,Storm,MEDIUM
+REC-01131,Garbage Accumulation,2,14,19,5,11.1,High,Low,6,8,Storm,MEDIUM
+REC-01132,Other,4,10,14,3,107.8,Medium,Very High,5,0,Heavy Rain,MEDIUM
+REC-01133,Other,4,21,5,11,105.2,Very High,Very High,7,6,Moderate Rain,CRITICAL
+REC-01134,Water Leakage,5,20,16,2,55.9,Very High,Low,6,3,Moderate Rain,HIGH
+REC-01135,Drainage,4,22,2,6,-36.4,Very High,Medium,3,7,Heavy Rain,HIGH
+REC-01136,Streetlight Failure,2,11,4,5,-29.6,Low,Medium,10,7,Storm,LOW
+REC-01137,Water Leakage,5,15,7,13,-11.7,Very High,Low,10,5,Moderate Rain,HIGH
+REC-01138,Pothole,1,24,1,11,68.3,Very High,Very High,2,6,Heavy Rain,HIGH
+REC-01139,Road Damage,5,4,19,11,118.3,Low,Very High,8,0,Heavy Rain,HIGH
+REC-01140,Road Damage,1,12,12,12,108.4,Very High,Very High,2,1,Moderate Rain,MEDIUM
+REC-01141,Other,3,25,18,13,86.7,Medium,High,7,5,Moderate Rain,CRITICAL
+REC-01142,Water Leakage,3,4,10,11,71.0,Very High,Very High,4,4,Heavy Rain,HIGH
+REC-01143,Garbage Accumulation,4,11,14,12,1.3,High,Low,3,2,Heavy Rain,MEDIUM
+REC-01144,Drainage,3,23,9,5,111.2,Medium,High,8,7,Heavy Rain,CRITICAL
+REC-01145,Water Leakage,2,5,19,5,97.5,High,Medium,1,3,Heavy Rain,MEDIUM
+REC-01146,Garbage Accumulation,5,24,16,7,36.3,Medium,High,3,8,Heavy Rain,CRITICAL
+REC-01147,Drainage,3,13,15,11,-12.9,Very High,Medium,8,6,Clear,HIGH
+REC-01148,Water Leakage,3,7,7,3,4.5,Low,Medium,6,7,Storm,MEDIUM
+REC-01149,Drainage,1,27,16,15,-3.5,Medium,High,1,6,Clear,MEDIUM
+REC-01150,Garbage Accumulation,5,18,17,14,-27.3,Low,Very High,10,8,Moderate Rain,CRITICAL
+REC-01151,Water Leakage,3,26,5,12,109.8,Medium,Medium,8,2,Clear,MEDIUM
+REC-01152,Garbage Accumulation,1,24,6,12,92.9,Low,Medium,9,4,Clear,MEDIUM
+REC-01153,Water Leakage,2,8,18,13,53.0,Very High,Low,9,0,Heavy Rain,HIGH
+REC-01154,Streetlight Failure,1,15,2,8,-8.4,Medium,Very High,5,0,Storm,LOW
+REC-01155,Other,1,24,14,13,62.8,Very High,Low,5,6,Heavy Rain,HIGH
+REC-01156,Drainage,4,17,9,11,7.9,Medium,High,5,8,Heavy Rain,CRITICAL
+REC-01157,Road Damage,4,4,5,8,-39.0,Very High,Very High,3,2,Clear,LOW
+REC-01158,Pothole,4,11,20,11,46.2,Medium,Medium,2,3,Moderate Rain,MEDIUM
+REC-01159,Garbage Accumulation,5,10,10,13,44.9,Low,High,10,3,Moderate Rain,HIGH
+REC-01160,Streetlight Failure,2,28,5,10,66.0,High,Very High,10,6,Heavy Rain,HIGH
+REC-01161,Water Leakage,3,16,9,6,-16.8,High,High,6,7,Heavy Rain,HIGH
+REC-01162,Streetlight Failure,1,25,12,1,115.0,High,Medium,8,4,Clear,MEDIUM
+REC-01163,Other,2,7,8,5,93.2,Low,High,7,6,Heavy Rain,LOW
+REC-01164,Other,2,20,16,8,97.0,Low,Low,4,2,Heavy Rain,MEDIUM
+REC-01165,Road Damage,4,24,18,8,112.3,Low,Very High,8,3,Heavy Rain,CRITICAL
+REC-01166,Pothole,1,2,20,6,4.2,High,Very High,5,1,Storm,LOW
+REC-01167,Water Leakage,1,11,13,14,-15.7,Medium,High,10,3,Clear,LOW
+REC-01168,Drainage,3,18,16,14,6.6,Low,Medium,2,5,Heavy Rain,HIGH
+REC-01169,Other,4,24,6,3,11.4,Medium,Very High,6,5,Moderate Rain,MEDIUM
+REC-01170,Garbage Accumulation,5,24,0,3,-20.9,Very High,Very High,7,7,Clear,HIGH
+REC-01171,Other,5,2,16,6,-37.4,Very High,Low,9,5,Storm,HIGH
+REC-01172,Pothole,1,19,2,9,84.9,Medium,Low,10,7,Moderate Rain,MEDIUM
+REC-01173,Other,1,25,13,14,4.3,Very High,Medium,6,1,Moderate Rain,MEDIUM
+REC-01174,Drainage,4,1,12,10,7.0,Very High,Low,1,3,Heavy Rain,MEDIUM
+REC-01175,Streetlight Failure,2,9,7,10,67.9,High,Very High,4,5,Moderate Rain,MEDIUM
+REC-01176,Garbage Accumulation,2,4,0,9,56.3,Low,Medium,9,5,Clear,LOW
+REC-01177,Garbage Accumulation,3,8,6,4,8.5,Very High,High,4,3,Heavy Rain,LOW
+REC-01178,Streetlight Failure,1,27,12,1,31.0,Medium,Very High,1,7,Storm,MEDIUM
+REC-01179,Streetlight Failure,2,7,12,10,90.3,Low,Medium,9,8,Clear,MEDIUM
+REC-01180,Streetlight Failure,5,12,10,7,-9.4,Low,High,8,4,Clear,MEDIUM
+REC-01181,Streetlight Failure,1,1,12,13,27.2,Low,High,6,4,Clear,LOW
+REC-01182,Garbage Accumulation,2,23,2,11,63.0,Very High,Very High,1,4,Heavy Rain,MEDIUM
+REC-01183,Pothole,2,28,7,3,50.3,Medium,Medium,3,7,Clear,MEDIUM
+REC-01184,Other,3,12,19,7,91.7,Very High,Medium,3,8,Moderate Rain,HIGH
+REC-01185,Road Damage,2,12,3,13,-14.0,Very High,Medium,5,6,Heavy Rain,MEDIUM
+REC-01186,Garbage Accumulation,1,26,0,6,-35.4,Very High,Low,3,6,Clear,LOW
+REC-01187,Drainage,4,25,19,12,44.0,Medium,Low,1,5,Moderate Rain,HIGH
+REC-01188,Pothole,4,15,13,14,103.7,Very High,Medium,10,0,Heavy Rain,CRITICAL
+REC-01189,Streetlight Failure,4,9,4,6,65.0,High,Low,8,7,Moderate Rain,MEDIUM
+REC-01190,Other,2,8,2,12,-24.8,Very High,High,10,1,Moderate Rain,LOW
+REC-01191,Water Leakage,3,6,9,6,73.7,Very High,High,3,5,Storm,HIGH
+REC-01192,Road Damage,1,24,12,11,-32.3,Medium,Medium,1,2,Clear,LOW
+REC-01193,Other,2,6,12,6,-38.1,Very High,Very High,6,3,Storm,LOW
+REC-01194,Drainage,3,18,14,2,79.2,High,High,3,4,Heavy Rain,HIGH
+REC-01195,Other,4,25,17,8,66.1,High,High,2,5,Storm,HIGH
+REC-01196,Water Leakage,1,8,14,14,-22.2,High,Medium,6,4,Storm,MEDIUM
+REC-01197,Streetlight Failure,5,3,16,3,23.6,Medium,Medium,4,0,Moderate Rain,LOW
+REC-01198,Drainage,2,19,16,9,-32.5,High,Medium,9,2,Heavy Rain,HIGH
+REC-01199,Water Leakage,1,22,5,11,61.5,Medium,Medium,9,6,Moderate Rain,MEDIUM
+REC-01200,Streetlight Failure,3,13,16,7,103.0,Very High,High,3,4,Clear,HIGH
+REC-01201,Pothole,3,23,17,11,9.9,Low,Low,7,2,Moderate Rain,MEDIUM
+REC-01202,Other,2,13,5,11,27.0,Medium,Medium,6,1,Moderate Rain,LOW
+REC-01203,Garbage Accumulation,2,13,3,12,78.3,Medium,Medium,8,2,Heavy Rain,MEDIUM
+REC-01204,Pothole,5,10,16,2,83.5,Very High,Medium,8,4,Clear,CRITICAL
+REC-01205,Drainage,5,15,4,2,100.8,High,High,1,6,Heavy Rain,HIGH
+REC-01206,Drainage,2,23,15,13,6.6,Low,Low,10,5,Moderate Rain,HIGH
+REC-01207,Other,4,27,13,7,-30.9,Low,High,5,4,Heavy Rain,MEDIUM
+REC-01208,Garbage Accumulation,1,1,3,12,89.0,Medium,Very High,4,6,Heavy Rain,LOW
+REC-01209,Pothole,4,18,19,14,50.5,Very High,Low,10,1,Clear,CRITICAL
+REC-01210,Other,2,12,18,11,73.5,Very High,Very High,1,5,Storm,HIGH
+REC-01211,Other,4,19,16,1,110.4,Very High,Low,4,2,Clear,MEDIUM
+REC-01212,Garbage Accumulation,4,26,0,12,33.1,High,High,6,5,Moderate Rain,HIGH
+REC-01213,Garbage Accumulation,4,26,1,6,33.3,High,Medium,4,8,Heavy Rain,HIGH
+REC-01214,Other,2,28,15,14,-25.8,High,Medium,6,4,Clear,MEDIUM
+REC-01215,Road Damage,1,21,12,6,59.5,Medium,Very High,4,4,Storm,MEDIUM
+REC-01216,Garbage Accumulation,2,6,10,1,-22.2,High,High,9,8,Moderate Rain,LOW
+REC-01217,Streetlight Failure,5,23,2,4,-25.1,Very High,High,3,5,Heavy Rain,MEDIUM
+REC-01218,Pothole,3,20,18,2,11.8,Medium,Very High,1,3,Moderate Rain,MEDIUM
+REC-01219,Road Damage,3,1,15,4,93.3,Medium,Medium,4,7,Moderate Rain,LOW
+REC-01220,Pothole,5,16,14,7,49.0,Medium,Very High,3,8,Storm,CRITICAL
+REC-01221,Road Damage,5,13,8,12,87.5,High,High,7,5,Heavy Rain,CRITICAL
+REC-01222,Garbage Accumulation,5,12,2,12,-18.5,Medium,Medium,2,8,Storm,MEDIUM
+REC-01223,Drainage,3,4,19,4,75.2,Medium,Very High,5,0,Storm,MEDIUM
+REC-01224,Streetlight Failure,1,6,0,9,31.8,Low,High,8,2,Clear,LOW
+REC-01225,Road Damage,3,3,8,10,0.3,Low,Very High,7,2,Storm,LOW
+REC-01226,Drainage,3,11,7,10,87.7,Very High,Medium,9,5,Clear,HIGH
+REC-01227,Drainage,1,23,11,10,-20.9,Low,Low,9,6,Moderate Rain,MEDIUM
+REC-01228,Drainage,2,27,5,1,63.9,Very High,Low,6,1,Clear,LOW
+REC-01229,Streetlight Failure,5,23,12,13,25.2,Very High,Medium,6,2,Clear,HIGH
+REC-01230,Streetlight Failure,3,16,2,3,1.7,Medium,Medium,6,1,Heavy Rain,LOW
+REC-01231,Streetlight Failure,1,17,8,1,100.7,Low,Low,6,1,Moderate Rain,LOW
+REC-01232,Pothole,1,11,12,5,-35.6,High,Low,3,3,Storm,LOW
+REC-01233,Water Leakage,5,7,11,2,99.5,Medium,High,10,2,Storm,HIGH
+REC-01234,Water Leakage,5,5,14,1,59.5,Low,High,5,1,Heavy Rain,MEDIUM
+REC-01235,Road Damage,2,19,16,3,104.0,Very High,Medium,10,2,Heavy Rain,CRITICAL
+REC-01236,Drainage,4,26,14,2,67.0,Low,High,4,5,Moderate Rain,MEDIUM
+REC-01237,Water Leakage,4,7,12,1,17.3,Very High,Low,9,1,Heavy Rain,MEDIUM
+REC-01238,Road Damage,5,17,12,13,47.4,Medium,High,6,2,Storm,CRITICAL
+REC-01239,Other,2,10,20,7,24.7,Very High,Low,8,0,Storm,MEDIUM
+REC-01240,Drainage,4,10,15,13,83.3,Low,Low,4,1,Heavy Rain,HIGH
+REC-01241,Drainage,5,18,5,11,10.2,Low,Low,1,4,Storm,HIGH
+REC-01242,Pothole,4,24,16,9,95.9,High,Low,4,1,Storm,CRITICAL
+REC-01243,Water Leakage,2,23,10,2,74.2,Very High,Medium,10,0,Clear,MEDIUM
+REC-01244,Road Damage,1,10,0,15,-1.5,High,Medium,7,3,Heavy Rain,LOW
+REC-01245,Other,4,2,4,3,55.8,High,Very High,10,4,Moderate Rain,MEDIUM
+REC-01246,Garbage Accumulation,4,23,0,7,91.8,Very High,High,4,7,Heavy Rain,HIGH
+REC-01247,Drainage,1,21,12,1,71.4,Very High,Medium,4,1,Clear,LOW
+REC-01248,Streetlight Failure,1,6,17,6,-13.2,High,Very High,5,8,Heavy Rain,MEDIUM
+REC-01249,Garbage Accumulation,5,9,3,13,-20.9,Medium,Low,9,7,Moderate Rain,HIGH
+REC-01250,Streetlight Failure,4,4,3,4,-33.9,Very High,Medium,2,1,Moderate Rain,LOW
+REC-01251,Streetlight Failure,5,12,14,12,-17.2,Low,Medium,4,5,Clear,MEDIUM
+REC-01252,Garbage Accumulation,3,6,11,8,-7.9,Low,Very High,7,2,Heavy Rain,LOW
+REC-01253,Drainage,1,8,5,11,-8.9,Very High,Low,8,1,Moderate Rain,LOW
+REC-01254,Water Leakage,2,18,10,1,-22.2,Low,Very High,9,8,Clear,MEDIUM
+REC-01255,Drainage,2,24,10,6,-33.9,Low,Medium,1,6,Clear,LOW
+REC-01256,Other,5,4,7,13,60.5,Low,Low,8,6,Heavy Rain,MEDIUM
+REC-01257,Road Damage,5,13,14,15,79.7,Very High,High,6,7,Storm,CRITICAL
+REC-01258,Drainage,3,8,4,5,61.9,Medium,Very High,5,2,Heavy Rain,MEDIUM
+REC-01259,Road Damage,1,14,9,3,-33.2,Very High,Medium,7,2,Heavy Rain,LOW
+REC-01260,Streetlight Failure,4,24,14,8,112.4,Very High,High,6,5,Storm,CRITICAL
+REC-01261,Water Leakage,5,7,7,4,74.0,Medium,High,8,8,Storm,CRITICAL
+REC-01262,Streetlight Failure,2,16,3,9,64.4,High,Very High,1,3,Moderate Rain,LOW
+REC-01263,Garbage Accumulation,5,6,12,15,42.8,Medium,Very High,1,3,Storm,HIGH
+REC-01264,Road Damage,5,25,4,11,24.3,Medium,Medium,7,5,Storm,HIGH
+REC-01265,Water Leakage,2,25,15,6,57.7,Low,Low,2,1,Clear,LOW
+REC-01266,Pothole,3,28,2,6,109.1,High,Medium,3,3,Heavy Rain,HIGH
+REC-01267,Other,1,12,19,15,10.5,Very High,Very High,6,2,Heavy Rain,MEDIUM
+REC-01268,Water Leakage,2,6,13,2,45.2,Very High,Medium,9,8,Storm,HIGH
+REC-01269,Road Damage,3,23,7,2,66.2,Medium,Very High,2,0,Moderate Rain,LOW
+REC-01270,Streetlight Failure,2,25,0,10,70.1,High,Very High,10,2,Storm,MEDIUM
+REC-01271,Pothole,4,22,18,6,101.7,Low,High,2,2,Moderate Rain,MEDIUM
+REC-01272,Water Leakage,1,26,6,11,11.3,Low,High,10,7,Clear,MEDIUM
+REC-01273,Drainage,5,14,5,6,96.2,Medium,High,9,0,Storm,CRITICAL
+REC-01274,Road Damage,2,23,9,5,31.8,Very High,High,1,4,Storm,HIGH
+REC-01275,Road Damage,1,11,17,1,-19.1,Low,Low,5,6,Moderate Rain,LOW
+REC-01276,Pothole,3,23,12,6,18.7,Very High,Very High,6,2,Heavy Rain,HIGH
+REC-01277,Road Damage,3,18,6,8,5.1,Low,Very High,2,5,Clear,LOW
+REC-01278,Other,1,8,2,3,19.7,Medium,Medium,2,1,Clear,LOW
+REC-01279,Road Damage,1,24,10,14,105.4,Low,Medium,10,7,Heavy Rain,HIGH
+REC-01280,Pothole,1,23,4,4,106.9,Low,Medium,2,1,Clear,LOW
+REC-01281,Streetlight Failure,2,7,1,12,-27.3,High,Medium,8,3,Storm,LOW
+REC-01282,Garbage Accumulation,5,28,1,8,-10.4,Low,Low,3,3,Heavy Rain,MEDIUM
+REC-01283,Water Leakage,5,19,6,12,-20.2,Low,Medium,3,5,Moderate Rain,HIGH
+REC-01284,Drainage,3,20,13,9,62.5,Medium,Very High,5,5,Moderate Rain,HIGH
+REC-01285,Drainage,1,21,8,5,80.7,Low,Low,2,7,Heavy Rain,MEDIUM
+REC-01286,Other,4,3,14,1,116.3,Low,High,10,5,Clear,MEDIUM
+REC-01287,Drainage,3,24,10,8,17.3,Very High,High,8,4,Storm,CRITICAL
+REC-01288,Water Leakage,2,19,5,1,70.5,Very High,Very High,8,5,Storm,CRITICAL
+REC-01289,Streetlight Failure,4,15,4,3,78.1,Very High,Very High,1,2,Heavy Rain,MEDIUM
+REC-01290,Water Leakage,4,12,0,7,86.6,Medium,Medium,10,2,Moderate Rain,MEDIUM
+REC-01291,Pothole,1,13,15,3,3.3,Medium,Low,8,6,Moderate Rain,LOW
+REC-01292,Drainage,3,8,6,8,57.1,Very High,Very High,7,2,Storm,HIGH
+REC-01293,Road Damage,1,12,3,2,112.5,Very High,High,3,3,Storm,MEDIUM
+REC-01294,Pothole,3,21,5,6,60.9,Very High,Low,10,2,Heavy Rain,HIGH
+REC-01295,Garbage Accumulation,3,26,4,6,50.5,Very High,Low,1,7,Heavy Rain,MEDIUM
+REC-01296,Garbage Accumulation,2,28,10,11,106.5,Very High,High,9,5,Heavy Rain,CRITICAL
+REC-01297,Road Damage,2,5,10,13,61.2,Medium,Medium,4,7,Storm,MEDIUM
+REC-01298,Pothole,4,25,4,10,11.5,Very High,Very High,10,4,Clear,CRITICAL
+REC-01299,Streetlight Failure,4,25,6,13,83.2,Medium,High,1,7,Moderate Rain,HIGH
+REC-01300,Garbage Accumulation,5,16,17,3,85.4,High,Very High,6,8,Moderate Rain,CRITICAL
+REC-01301,Other,2,20,19,2,7.3,Low,Medium,9,8,Heavy Rain,HIGH
+REC-01302,Road Damage,1,10,8,4,-17.0,Low,Low,7,1,Heavy Rain,LOW
+REC-01303,Streetlight Failure,2,15,20,7,48.8,Very High,High,2,4,Storm,MEDIUM
+REC-01304,Streetlight Failure,3,6,18,3,11.6,Low,Low,1,5,Storm,LOW
+REC-01305,Garbage Accumulation,2,11,12,9,-35.9,Very High,High,7,2,Heavy Rain,LOW
+REC-01306,Road Damage,3,11,18,13,51.0,Low,Medium,8,1,Clear,MEDIUM
+REC-01307,Water Leakage,2,4,16,3,110.4,Medium,Low,6,5,Heavy Rain,MEDIUM
+REC-01308,Pothole,4,13,17,1,43.9,Very High,Medium,9,1,Moderate Rain,HIGH
+REC-01309,Streetlight Failure,2,4,8,4,-1.7,Low,Low,4,7,Clear,LOW
+REC-01310,Water Leakage,2,17,10,6,22.0,Very High,Low,9,4,Storm,HIGH
+REC-01311,Pothole,4,18,2,1,-8.0,Low,Medium,4,7,Clear,LOW
+REC-01312,Garbage Accumulation,5,27,5,7,-6.0,Low,High,5,8,Heavy Rain,HIGH
+REC-01313,Drainage,4,6,6,13,57.2,High,Medium,6,4,Storm,HIGH
+REC-01314,Pothole,4,20,20,11,41.9,Very High,Medium,3,1,Clear,CRITICAL
+REC-01315,Streetlight Failure,1,24,6,4,81.6,High,Medium,10,4,Heavy Rain,MEDIUM
+REC-01316,Water Leakage,5,27,8,4,41.8,High,Low,4,2,Heavy Rain,HIGH
+REC-01317,Water Leakage,4,24,12,12,12.4,Very High,Medium,8,7,Heavy Rain,CRITICAL
+REC-01318,Water Leakage,1,20,3,15,-40.0,Low,Low,1,4,Clear,LOW
+REC-01319,Garbage Accumulation,4,13,18,3,-24.4,High,Medium,4,6,Heavy Rain,HIGH
+REC-01320,Pothole,3,25,1,15,-20.8,Medium,High,8,3,Clear,MEDIUM
+REC-01321,Road Damage,1,16,5,1,-22.0,Medium,Very High,10,8,Heavy Rain,LOW
+REC-01322,Streetlight Failure,1,24,4,4,-29.6,Very High,Low,1,7,Storm,LOW
+REC-01323,Other,4,14,5,1,52.3,Low,Low,5,4,Storm,MEDIUM
+REC-01324,Road Damage,3,28,6,4,70.3,Low,Low,10,6,Storm,HIGH
+REC-01325,Other,2,23,1,5,18.2,High,Very High,8,8,Moderate Rain,MEDIUM
+REC-01326,Road Damage,5,18,4,6,77.6,High,Very High,3,6,Heavy Rain,CRITICAL
+REC-01327,Streetlight Failure,3,25,9,3,90.3,Very High,Very High,6,6,Clear,HIGH
+REC-01328,Garbage Accumulation,3,21,14,8,80.6,Medium,Low,6,8,Moderate Rain,HIGH
+REC-01329,Drainage,3,18,20,14,79.2,Medium,Medium,7,1,Storm,CRITICAL
+REC-01330,Drainage,1,17,3,10,-39.4,Medium,Medium,6,7,Clear,LOW
+REC-01331,Garbage Accumulation,3,18,12,9,65.1,Very High,Medium,10,5,Storm,CRITICAL
+REC-01332,Water Leakage,4,5,6,12,-39.9,Low,Very High,3,1,Heavy Rain,LOW
+REC-01333,Water Leakage,4,10,6,9,62.1,Medium,Low,1,0,Heavy Rain,MEDIUM
+REC-01334,Other,1,3,8,8,112.2,Very High,High,7,0,Heavy Rain,LOW
+REC-01335,Garbage Accumulation,4,12,6,5,28.6,Very High,Low,8,0,Storm,MEDIUM
+REC-01336,Road Damage,4,28,12,13,46.2,Low,Very High,10,5,Storm,CRITICAL
+REC-01337,Pothole,4,2,15,13,104.9,Very High,High,9,1,Clear,HIGH
+REC-01338,Road Damage,1,15,12,12,14.0,Very High,Low,6,4,Storm,HIGH
+REC-01339,Water Leakage,5,14,3,1,69.4,Low,Very High,2,8,Moderate Rain,MEDIUM
+REC-01340,Streetlight Failure,5,21,1,5,53.7,Very High,Medium,8,4,Moderate Rain,HIGH
+REC-01341,Pothole,3,20,10,7,-22.5,Medium,Low,4,7,Storm,MEDIUM
+REC-01342,Road Damage,2,25,12,1,8.4,Medium,High,10,7,Moderate Rain,MEDIUM
+REC-01343,Road Damage,4,26,3,2,-13.7,Medium,Low,8,7,Heavy Rain,MEDIUM
+REC-01344,Road Damage,5,23,11,11,47.0,Very High,Very High,1,4,Storm,CRITICAL
+REC-01345,Drainage,4,3,2,2,2.0,High,Very High,7,8,Moderate Rain,MEDIUM
+REC-01346,Pothole,1,6,2,10,-10.1,Medium,Very High,9,5,Heavy Rain,LOW
+REC-01347,Streetlight Failure,1,26,5,10,26.1,Low,Medium,4,2,Heavy Rain,LOW
+REC-01348,Pothole,3,2,16,13,-38.1,High,Low,5,2,Heavy Rain,MEDIUM
+REC-01349,Water Leakage,4,26,6,4,66.2,Very High,Very High,4,1,Moderate Rain,MEDIUM
+REC-01350,Drainage,1,5,4,14,41.6,Low,Very High,9,1,Moderate Rain,LOW
+REC-01351,Water Leakage,4,27,20,6,110.0,High,Very High,1,6,Clear,CRITICAL
+REC-01352,Pothole,2,22,11,7,32.0,Medium,Medium,8,8,Storm,HIGH
+REC-01353,Road Damage,2,8,19,9,6.0,Low,Very High,10,0,Storm,MEDIUM
+REC-01354,Other,2,25,20,1,19.1,Very High,High,8,5,Heavy Rain,HIGH
+REC-01355,Other,5,20,10,15,9.3,Very High,Very High,7,8,Moderate Rain,CRITICAL
+REC-01356,Streetlight Failure,3,18,16,10,61.0,High,High,5,4,Moderate Rain,HIGH
+REC-01357,Garbage Accumulation,3,8,18,4,15.8,High,Medium,6,8,Storm,MEDIUM
+REC-01358,Road Damage,2,25,19,15,85.9,High,Medium,6,8,Heavy Rain,CRITICAL
+REC-01359,Water Leakage,4,19,16,3,-21.2,High,Medium,4,5,Moderate Rain,HIGH
+REC-01360,Garbage Accumulation,2,13,15,12,3.3,Very High,High,3,4,Clear,MEDIUM
+REC-01361,Garbage Accumulation,1,13,17,7,-39.5,Medium,High,8,7,Heavy Rain,MEDIUM
+REC-01362,Garbage Accumulation,1,14,20,8,55.2,Very High,Very High,7,5,Clear,MEDIUM
+REC-01363,Water Leakage,2,4,11,13,88.2,Low,Low,2,4,Clear,LOW
+REC-01364,Other,1,24,13,4,-33.6,Low,Low,2,5,Heavy Rain,LOW
+REC-01365,Garbage Accumulation,4,8,7,4,58.9,High,High,4,2,Clear,LOW
+REC-01366,Water Leakage,2,26,12,4,46.7,Low,Medium,2,4,Storm,MEDIUM
+REC-01367,Pothole,1,8,13,4,-1.3,Medium,Medium,4,4,Clear,LOW
+REC-01368,Streetlight Failure,5,28,19,14,21.9,Medium,Medium,2,1,Storm,CRITICAL
+REC-01369,Road Damage,4,15,4,12,102.1,Very High,Low,9,4,Moderate Rain,CRITICAL
+REC-01370,Other,5,11,10,1,39.8,Very High,Very High,10,3,Heavy Rain,HIGH
+REC-01371,Water Leakage,1,20,12,3,86.1,Medium,Medium,6,5,Storm,HIGH
+REC-01372,Water Leakage,4,20,15,1,69.8,Medium,Low,8,0,Storm,CRITICAL
+REC-01373,Drainage,3,12,12,1,38.6,Very High,Very High,2,6,Heavy Rain,HIGH
+REC-01374,Garbage Accumulation,4,6,5,4,96.6,Medium,Low,7,5,Clear,LOW
+REC-01375,Other,2,3,5,2,58.5,Low,High,2,8,Heavy Rain,LOW
+REC-01376,Other,4,9,5,4,25.5,Medium,Low,4,1,Clear,LOW
+REC-01377,Drainage,2,10,17,8,110.7,Medium,Medium,1,3,Clear,LOW
+REC-01378,Other,2,18,3,13,34.0,High,Medium,3,8,Moderate Rain,MEDIUM
+REC-01379,Water Leakage,1,11,5,13,3.6,Low,Low,7,2,Moderate Rain,LOW
+REC-01380,Water Leakage,2,28,19,14,18.8,High,Very High,4,7,Moderate Rain,HIGH
+REC-01381,Road Damage,1,23,7,3,62.4,Low,Low,7,2,Clear,LOW
+REC-01382,Streetlight Failure,4,18,17,12,24.6,Very High,High,10,6,Heavy Rain,CRITICAL
+REC-01383,Drainage,4,6,16,14,40.0,Low,Medium,2,5,Heavy Rain,HIGH
+REC-01384,Streetlight Failure,4,10,11,1,10.3,Medium,Low,4,6,Moderate Rain,LOW
+REC-01385,Streetlight Failure,5,26,4,11,87.0,Very High,Medium,3,0,Moderate Rain,HIGH
+REC-01386,Streetlight Failure,4,23,14,6,101.2,Very High,Medium,7,0,Moderate Rain,HIGH
+REC-01387,Water Leakage,1,10,11,1,16.1,Very High,Very High,2,4,Heavy Rain,LOW
+REC-01388,Pothole,4,3,11,6,-9.0,Medium,Low,2,2,Heavy Rain,LOW
+REC-01389,Pothole,1,17,6,11,43.4,Low,Very High,7,5,Storm,MEDIUM
+REC-01390,Garbage Accumulation,1,26,16,10,-20.3,Very High,Very High,7,8,Clear,HIGH
+REC-01391,Road Damage,5,24,18,9,-29.2,Medium,Very High,6,7,Heavy Rain,CRITICAL
+REC-01392,Water Leakage,1,20,12,5,23.1,Low,Low,5,0,Moderate Rain,LOW
+REC-01393,Water Leakage,4,19,6,7,87.9,Medium,Very High,9,4,Moderate Rain,HIGH
+REC-01394,Other,1,9,15,13,-29.4,Very High,Medium,8,1,Clear,LOW
+REC-01395,Road Damage,4,26,10,10,76.5,High,Very High,5,8,Heavy Rain,CRITICAL
+REC-01396,Water Leakage,5,17,8,13,55.0,Medium,Medium,1,6,Storm,CRITICAL
+REC-01397,Garbage Accumulation,3,17,9,8,115.6,Very High,Low,10,4,Heavy Rain,HIGH
+REC-01398,Water Leakage,2,8,14,15,-15.5,Low,High,7,6,Storm,HIGH
+REC-01399,Drainage,3,10,2,4,-14.0,Very High,Low,6,0,Storm,LOW
+REC-01400,Streetlight Failure,4,1,10,6,-21.1,Medium,Very High,8,6,Moderate Rain,MEDIUM
+REC-01401,Streetlight Failure,4,28,7,5,-1.1,Medium,High,3,5,Storm,MEDIUM
+REC-01402,Pothole,1,5,17,7,38.8,Low,Medium,1,0,Storm,LOW
+REC-01403,Water Leakage,1,5,9,14,18.7,High,Low,1,2,Heavy Rain,LOW
+REC-01404,Drainage,1,2,19,1,91.4,Medium,Medium,7,7,Clear,LOW
+REC-01405,Garbage Accumulation,5,10,19,14,44.2,High,Medium,2,7,Heavy Rain,CRITICAL
+REC-01406,Drainage,1,16,19,4,70.2,Low,Very High,6,2,Storm,HIGH
+REC-01407,Other,4,12,16,5,7.0,Very High,Very High,4,4,Heavy Rain,HIGH
+REC-01408,Road Damage,2,2,2,1,54.0,Low,Medium,2,7,Moderate Rain,LOW
+REC-01409,Water Leakage,1,10,10,12,11.2,Medium,Very High,7,6,Clear,LOW
+REC-01410,Road Damage,5,24,18,5,110.0,Medium,Very High,1,5,Moderate Rain,CRITICAL
+REC-01411,Streetlight Failure,2,12,2,1,-35.0,High,Very High,3,7,Storm,LOW
+REC-01412,Road Damage,3,15,4,14,12.3,Very High,High,10,2,Clear,HIGH
+REC-01413,Other,2,9,13,2,37.9,High,Medium,1,2,Moderate Rain,LOW
+REC-01414,Garbage Accumulation,2,24,5,7,-33.8,Low,High,6,5,Heavy Rain,MEDIUM
+REC-01415,Pothole,1,16,16,4,-6.2,High,High,9,6,Moderate Rain,MEDIUM
+REC-01416,Other,1,15,18,9,6.4,Very High,Low,5,5,Clear,MEDIUM
+REC-01417,Streetlight Failure,5,21,2,8,92.7,Very High,Very High,10,3,Heavy Rain,CRITICAL
+REC-01418,Garbage Accumulation,3,21,1,14,-3.3,High,Very High,5,0,Moderate Rain,MEDIUM
+REC-01419,Pothole,2,27,14,4,23.5,Very High,Low,2,4,Storm,HIGH
+REC-01420,Road Damage,3,25,19,11,-31.8,Medium,High,2,3,Storm,HIGH
+REC-01421,Drainage,3,6,17,11,-8.0,Very High,Low,6,3,Storm,HIGH
+REC-01422,Road Damage,3,6,9,11,1.1,Medium,Very High,4,2,Heavy Rain,LOW
+REC-01423,Pothole,3,10,17,12,47.8,Low,Low,3,1,Clear,LOW
+REC-01424,Other,3,6,3,13,32.2,Low,Very High,9,1,Storm,MEDIUM
+REC-01425,Road Damage,5,9,2,6,86.2,High,Medium,7,3,Heavy Rain,HIGH
+REC-01426,Drainage,1,3,5,3,14.7,Medium,Very High,6,0,Heavy Rain,LOW
+REC-01427,Other,4,26,13,2,89.2,Very High,Medium,3,3,Storm,HIGH
+REC-01428,Pothole,2,27,15,9,83.3,Very High,High,6,3,Clear,HIGH
+REC-01429,Pothole,4,7,0,10,16.9,High,High,7,0,Heavy Rain,MEDIUM
+REC-01430,Other,1,20,16,9,82.6,Medium,Very High,8,8,Heavy Rain,HIGH
+REC-01431,Pothole,5,26,1,13,93.6,High,Medium,5,8,Storm,CRITICAL
+REC-01432,Pothole,3,22,4,12,1.3,Very High,Medium,5,5,Storm,CRITICAL
+REC-01433,Pothole,5,12,2,8,9.3,High,Very High,1,0,Heavy Rain,MEDIUM
+REC-01434,Other,2,17,19,10,96.3,High,Low,2,4,Heavy Rain,HIGH
+REC-01435,Garbage Accumulation,1,6,18,4,53.2,Low,Medium,1,4,Heavy Rain,LOW
+REC-01436,Drainage,1,26,17,15,52.4,High,High,2,6,Clear,MEDIUM
+REC-01437,Garbage Accumulation,4,3,10,5,78.6,Medium,Low,2,0,Clear,LOW
+REC-01438,Other,3,13,17,2,2.3,Medium,Low,6,2,Moderate Rain,LOW
+REC-01439,Road Damage,5,23,3,11,90.0,Very High,Medium,3,2,Moderate Rain,CRITICAL
+REC-01440,Drainage,3,19,6,8,47.6,Low,Very High,4,6,Moderate Rain,MEDIUM
+REC-01441,Other,5,10,11,3,24.7,Very High,High,5,3,Clear,MEDIUM
+REC-01442,Drainage,4,1,3,7,54.5,High,Medium,10,2,Clear,LOW
+REC-01443,Road Damage,2,5,1,4,119.7,Low,Low,7,2,Moderate Rain,LOW
+REC-01444,Pothole,2,23,3,14,71.4,Very High,Low,6,3,Storm,HIGH
+REC-01445,Water Leakage,2,24,20,13,-20.3,High,High,7,6,Heavy Rain,CRITICAL
+REC-01446,Road Damage,2,7,12,6,-9.9,Medium,Very High,8,4,Storm,LOW
+REC-01447,Pothole,3,1,13,8,-14.6,Low,Very High,9,4,Moderate Rain,LOW
+REC-01448,Water Leakage,3,9,5,7,83.0,Very High,Low,10,7,Heavy Rain,CRITICAL
+REC-01449,Garbage Accumulation,2,15,6,12,98.2,Very High,Very High,5,2,Storm,HIGH
+REC-01450,Pothole,2,21,15,7,-5.0,Medium,Low,5,5,Heavy Rain,MEDIUM
+REC-01451,Road Damage,1,9,16,13,9.6,Very High,Low,2,1,Moderate Rain,LOW
+REC-01452,Water Leakage,5,28,19,10,87.8,Medium,Very High,9,0,Moderate Rain,CRITICAL
+REC-01453,Pothole,3,25,17,7,50.9,Low,Very High,4,2,Clear,MEDIUM
+REC-01454,Streetlight Failure,3,23,8,10,-8.1,Very High,High,2,6,Storm,MEDIUM
+REC-01455,Drainage,2,8,10,1,97.2,High,Very High,4,8,Heavy Rain,MEDIUM
+REC-01456,Drainage,1,23,2,2,50.4,Medium,Medium,7,0,Moderate Rain,LOW
+REC-01457,Streetlight Failure,4,18,2,2,69.0,Very High,Medium,4,3,Moderate Rain,MEDIUM
+REC-01458,Pothole,5,14,3,5,62.9,Very High,Medium,2,5,Moderate Rain,HIGH
+REC-01459,Drainage,1,3,8,13,55.7,Medium,Low,8,4,Moderate Rain,LOW
+REC-01460,Pothole,4,27,6,13,25.9,High,Low,2,8,Moderate Rain,HIGH
+REC-01461,Drainage,3,1,13,12,15.8,High,Very High,9,2,Clear,LOW
+REC-01462,Drainage,1,22,8,4,-12.5,Medium,Medium,1,2,Moderate Rain,LOW
+REC-01463,Other,2,7,4,5,33.7,Very High,Medium,10,2,Clear,LOW
+REC-01464,Water Leakage,3,21,9,14,69.9,Medium,Low,3,7,Storm,CRITICAL
+REC-01465,Pothole,2,12,1,9,-12.0,Very High,Low,2,2,Moderate Rain,LOW
+REC-01466,Streetlight Failure,2,23,5,5,74.2,High,Very High,3,8,Moderate Rain,MEDIUM
+REC-01467,Streetlight Failure,4,6,19,14,87.2,High,High,5,3,Clear,HIGH
+REC-01468,Other,5,15,2,14,53.0,Medium,Low,4,8,Clear,HIGH
+REC-01469,Drainage,4,13,20,10,74.0,Medium,Low,9,2,Moderate Rain,HIGH
+REC-01470,Pothole,5,28,19,9,101.5,Medium,Low,6,8,Clear,CRITICAL
+REC-01471,Garbage Accumulation,3,11,17,3,92.5,Low,Very High,8,3,Moderate Rain,MEDIUM
+REC-01472,Road Damage,1,17,4,10,30.8,Very High,Low,6,7,Moderate Rain,MEDIUM
+REC-01473,Road Damage,3,28,10,1,-34.7,Low,Low,1,0,Clear,LOW
+REC-01474,Other,5,3,2,12,-9.5,Low,Very High,9,5,Clear,MEDIUM
+REC-01475,Other,5,1,4,6,10.1,Low,High,5,4,Moderate Rain,LOW
+REC-01476,Drainage,5,18,15,5,38.6,Low,Medium,3,4,Clear,MEDIUM
+REC-01477,Garbage Accumulation,4,16,1,9,29.6,Low,Low,10,0,Clear,LOW
+REC-01478,Streetlight Failure,3,21,10,2,17.8,High,Medium,7,6,Clear,MEDIUM
+REC-01479,Water Leakage,4,5,8,9,-3.5,High,High,1,5,Heavy Rain,MEDIUM
+REC-01480,Streetlight Failure,1,18,1,11,35.2,Very High,Medium,4,6,Storm,LOW
+REC-01481,Drainage,3,26,0,13,59.9,Medium,Medium,2,0,Heavy Rain,MEDIUM
+REC-01482,Other,4,9,16,2,102.4,Low,High,5,2,Storm,MEDIUM
+REC-01483,Streetlight Failure,2,17,6,7,74.9,Medium,Low,7,4,Moderate Rain,MEDIUM
+REC-01484,Road Damage,4,20,9,12,-12.7,High,Very High,5,2,Clear,HIGH
+REC-01485,Water Leakage,4,25,4,6,75.6,Very High,Medium,2,4,Heavy Rain,CRITICAL
+REC-01486,Other,4,10,20,7,-14.9,High,High,1,2,Storm,MEDIUM
+REC-01487,Other,2,24,11,6,47.0,Medium,High,4,0,Clear,LOW
+REC-01488,Other,3,28,9,9,52.1,Low,Medium,2,5,Moderate Rain,MEDIUM
+REC-01489,Drainage,5,17,5,14,117.2,High,Medium,8,0,Heavy Rain,CRITICAL
+REC-01490,Pothole,3,8,6,15,-5.4,High,Medium,9,4,Heavy Rain,HIGH
+REC-01491,Road Damage,1,13,7,13,-17.4,Low,Low,2,7,Storm,LOW
+REC-01492,Drainage,1,20,6,4,54.9,Medium,Very High,4,2,Storm,MEDIUM
+REC-01493,Road Damage,3,8,1,15,25.1,Low,Low,2,8,Storm,LOW
+REC-01494,Streetlight Failure,1,15,16,14,25.2,Low,Low,3,3,Clear,LOW
+REC-01495,Other,1,19,3,6,84.6,Low,Medium,10,8,Clear,MEDIUM
+REC-01496,Streetlight Failure,4,9,9,14,116.6,Low,Very High,1,3,Storm,HIGH
+REC-01497,Garbage Accumulation,5,26,11,3,101.7,Low,High,10,1,Clear,HIGH
+REC-01498,Drainage,3,4,17,5,-3.9,Very High,Very High,6,0,Moderate Rain,LOW
+REC-01499,Other,4,7,5,14,75.7,Medium,Medium,2,3,Storm,MEDIUM
+REC-01500,Pothole,1,9,1,12,79.4,High,Medium,9,8,Storm,HIGH

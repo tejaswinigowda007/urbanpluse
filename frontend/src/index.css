@@ -1,0 +1,65 @@
+@import 'leaflet/dist/leaflet.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Leaflet Container & Fixes */
+.leaflet-container {
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 300px;
+  border-radius: 0.75rem;
+  z-index: 1;
+}
+
+/* Fix leaflet popup styling in Tailwind */
+.leaflet-popup-content-wrapper {
+  border-radius: 0.75rem !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15), 0 8px 10px -6px rgba(0, 0, 0, 0.1) !important;
+  padding: 0 !important;
+  border: 1px solid #e2e8f0;
+}
+.leaflet-popup-content {
+  margin: 10px 12px !important;
+  line-height: 1.4 !important;
+}
+
+/* Custom pulse animations */
+@keyframes critical-pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.75;
+    transform: scale(1.05);
+  }
+}
+
+.animate-critical {
+  animation: critical-pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

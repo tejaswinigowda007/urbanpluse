@@ -1,0 +1,13 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.env
+*.env
+backend/.env
+ml/models/*.pkl
+ml/models/*.joblib
+*.db
+*.sqlite
+*.sqlite3
